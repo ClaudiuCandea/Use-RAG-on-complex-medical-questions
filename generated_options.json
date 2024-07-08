@@ -1,0 +1,933 @@
+[
+    [
+        " Mitral stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Hoarseness\n- Difficulty lying down",
+        " Mitral regurgitation has symptoms:\n-Shortness of breath, especially when lying down or during exercise\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Cough\n-Wheezing\n-Lightheadedness or dizziness\n-Fainting",
+        " Pulmonary regurgitation has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Cough\n-Wheezing\n-Hemoptysis (coughing up blood)",
+        " Aortic regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting",
+        " Aortic stenosis has symptoms:\n- Chest pain or tightness (angina)\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat\n- Fatigue\n- Weakness\n- Swollen feet or ankles"
+    ],
+    [
+        " Aortic dissection has symptoms:\n-Sudden, sharp chest pain that may radiate to the back, neck, or abdomen\n-Shortness of breath\n-Difficulty swallowing\n-Hoarseness\n-Cough\n-Nausea and vomiting\n-Sweating\n-Lightheadedness or dizziness\n-Loss of consciousness",
+        " Atrial fibrillation has symptoms:\n-Rapid heart rate\n-Irregular heart rate\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Confusion\n-Stroke",
+        " Free wall rupture has symptoms:\n-Abdominal pain\n-Nausea\n-Vomiting\n-Diarrhea\n-Fever\n-Chills\n-Rapid heart rate\n-Low blood pressure\n-Confusion\n-Loss of consciousness",
+        " Pericarditis has symptoms:\n-Chest pain\n-Shortness of breath\n-Cough\n-Fatigue\n-Nausea\n-Vomiting\n-Dizziness\n-Lightheadedness\n-Syncope (fainting)",
+        " Ventricular tachycardia has symptoms:\n- Palpitations\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Syncope (fainting)"
+    ],
+    [
+        " Pudendal nerve compression has symptoms:\n-Pain in the perineum, rectum, or genitals\n-Numbness or tingling in the perineum, rectum, or genitals\n-Difficulty urinating or defecating\n-Painful intercourse\n-Swelling in the perineum or genitals\n-Muscle weakness in the perineum or legs\n-Chronic pain in the lower back, buttocks, or thighs",
+        " High-output cardiac failure has symptoms:\n-Rapid heart rate\n-Shortness of breath\n-Fatigue\n-Weakness\n-Edema\n-Weight gain\n-Nausea\n-Vomiting\n-Confusion\n-Anxiety\n-Restlessness",
+        " Iliac artery aneurysm has symptoms:\n-Constant, severe pain in the lower abdomen, groin, or back\n-A pulsating mass in the abdomen or groin\n-Swelling in the legs or feet\n-Difficulty walking\n-Nausea and vomiting\n-Fever\n-Chills\n-Weight loss",
+        " Femoral head necrosis has symptoms:\n-Hip pain\n-Stiffness in the hip\n-Limited range of motion in the hip\n-Groin pain\n-Buttock pain\n-Thigh pain\n-Swelling in the hip\n-Warmth in the hip\n-Redness in the hip",
+        " Erectile dysfunction has symptoms:\n-Difficulty getting or keeping an erection\n-Reduced sexual desire\n-Difficulty reaching orgasm\n-Painful ejaculation\n-Low self-esteem\n-Relationship problems"
+    ],
+    [
+        " Mitral valve stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Difficulty lying down",
+        " Mitral valve regurgitation has symptoms:\n-Shortness of breath, especially when lying down or during exercise\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Coughing up blood",
+        " Aortic valve stenosis has symptoms:\n- Chest pain (angina)\n- Shortness of breath\n- Lightheadedness or fainting\n- Rapid or irregular heartbeat\n- Swollen feet or ankles\n- Fatigue\n- Hoarseness\n- Difficulty swallowing",
+        " Aortic valve regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting",
+        " Mitral valve prolapse has symptoms:\n- Chest pain\n- Shortness of breath\n- Palpitations\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Syncope (fainting)\n- Cough\n- Wheezing"
+    ],
+    [
+        " Atrial fibrillation has symptoms:\n-Rapid heart rate\n-Irregular heart rate\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Confusion\n-Stroke",
+        " Atrioventricular block has symptoms:\n-Chest pain\n-Dizziness\n-Fainting\n-Fatigue\n-Palpitations\n-Shortness of breath",
+        " Congestive heart failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Nausea and vomiting\n-Confusion\n-Weight gain\n-Decreased urine output",
+        " Mitral valve obstruction has symptoms:\n- Shortness of breath\n- Fatigue\n- Chest pain\n- Lightheadedness\n- Dizziness\n- Fainting\n- Swelling in the feet, ankles, and abdomen\n- Rapid heart rate\n- Coughing up blood",
+        " Pericarditis has symptoms:\n-Chest pain\n-Shortness of breath\n-Cough\n-Fatigue\n-Nausea\n-Vomiting\n-Dizziness\n-Lightheadedness\n-Syncope (fainting)"
+    ],
+    [
+        " Biventricular dilatation with a decreased ejection fraction has symptoms:\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Cough\n-Wheezing",
+        " Left atrial dilatation with mitral valve stenosis has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Lightheadedness or dizziness\n-Chest pain or discomfort\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Coughing up blood\n-Hoarseness\n-Difficulty swallowing",
+        " Left ventricular dilatation with an incompetent aortic valve has symptoms:\n-Shortness of breath\n-Fatigue\n-Chest pain\n-Palpitations\n-Lightheadedness\n-Dizziness\n-Syncope (fainting)\n-Cough\n-Wheezing\n-Swelling in the feet, ankles, and abdomen",
+        " Left ventricular hypertrophy with a bicuspid aortic valve has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Fainting\n- Palpitations\n- Fatigue\n- Weakness\n- Cough\n- Wheezing",
+        " Right ventricular hypertrophy with a dilated pulmonary artery has symptoms:\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Chest pain\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Cough\n-Wheezing\n-Hoarseness\n-Difficulty swallowing"
+    ],
+    [
+        " Pancreatitis has symptoms:\n- Abdominal pain\n- Nausea\n- Vomiting\n- Fever\n- Chills\n- Rapid heart rate\n- Sweating\n- Confusion\n- Jaundice\n- Dark urine\n- Light-colored stools",
+        " Chylothorax has symptoms:\n-Shortness of breath\n-Chest pain\n-Cough\n-Wheezing\n-Rapid heart rate\n-Low blood pressure\n-Swelling in the arms, legs, and abdomen\n-Weight gain\n-Fatigue\n-Nausea\n-Vomiting",
+        " Uremia has symptoms:\n-Nausea\n-Vomiting\n-Fatigue\n-Weakness\n-Loss of appetite\n-Itching\n-Muscle cramps\n-Swelling in the feet and ankles\n-Confusion\n-Seizures\n-Coma",
+        " Sarcoidosis has symptoms:\n-Swollen lymph nodes\n-Weight loss\n-Fatigue\n-Fever\n-Cough\n-Shortness of breath\n-Skin rashes\n-Eye inflammation\n-Joint pain\n-Muscle weakness\n-Neurological problems",
+        " Congestive heart failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Nausea and vomiting\n-Confusion\n-Weight gain\n-Decreased urine output"
+    ],
+    [
+        " Chronic hemolytic anemia has symptoms:\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Lightheadedness\n-Rapid heart rate\n-Enlarged spleen\n-Jaundice\n-Dark urine\n-Clay-colored stools",
+        " Dilated cardiomyopathy has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Coughing up pink or blood-tinged sputum",
+        " Expected age related changes has symptoms:\n-decreased muscle mass\n-decreased bone density\n-decreased skin elasticity\n-decreased vision\n-decreased hearing\n-decreased sense of taste and smell\n-decreased cognitive function\n-decreased immune function\n-increased risk of chronic diseases",
+        " Hypertrophic cardiomyopathy has symptoms:\n- Shortness of breath, especially with exertion\n- Chest pain, which may feel like pressure or squeezing\n- Lightheadedness, dizziness or fainting\n- Palpitations (a sensation of a rapid or irregular heartbeat)\n- Fatigue\n- Swelling in the feet, ankles and abdomen",
+        " Uncontrolled hypertension has symptoms:\n-Headaches\n-Blurred vision\n-Chest pain\n-Shortness of breath\n-Nausea\n-Vomiting\n-Confusion\n-Seizures"
+    ],
+    [
+        " Dressler syndrome has symptoms:\n-Chest pain\n-Fever\n-Pericardial friction rub\n-Pleural effusion\n-Dyspnea\n-Cough\n-Fatigue\n-Malaise\n-Weight loss",
+        " Acute myocardial infarction has symptoms:\n-Chest pain or discomfort.\n-Shortness of breath.\n-Pain in the arms, neck, back, or jaw.\n-Nausea, vomiting, or light-headedness.\n-Sweating.\n-Rapid or irregular heartbeat.",
+        " Mycobacterium tuberculosis infection has symptoms:\n-cough\n-fever\n-night sweats\n-weight loss\n-fatigue\n-chest pain\n-shortness of breath\n-hoarseness\n-swelling of the lymph nodes",
+        " Systemic lupus erythematosus has symptoms:\n- Fatigue\n- Joint pain, swelling, and stiffness\n- Skin rashes\n- Fever\n- Weight loss\n- Hair loss\n- Mouth sores\n- Kidney problems\n- Lung problems\n- Heart problems\n- Neurological problems\n- Blood problems\n- Eye problems",
+        " Acute viral infection has symptoms:\n-Fever\n-Chills\n-Muscle aches\n-Headache\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Sore throat\n-Cough\n-Runny nose\n-Sneezing\n-Congestion\n-Pink eye\n-Swollen lymph nodes\n-Skin rash"
+    ],
+    [
+        " Vasospasm of distal coronary arteries branches has symptoms:\n- Chest pain or angina\n- Shortness of breath\n- Lightheadedness or dizziness\n- Nausea or vomiting\n- Sweating\n- Pain in the jaw, neck, back, or arms",
+        " Left ventricular hypertrophy has symptoms:\n-Shortness of breath\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Coughing up blood",
+        " Obliterative arteriopathy has symptoms:\n-Leg pain\n-Leg cramps\n-Numbness or tingling in the legs\n-Skin discoloration\n-Skin ulcers\n-Hair loss on the legs\n-Brittle nails\n-Slow-growing toenails\n-Erectile dysfunction in men",
+        " Increased oxygen demand due to tachycardia has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Confusion\n- Seizures\n- Loss of consciousness",
+        " Granulomatous vasculitis of coronary arteries has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Nausea\n-Vomiting\n-Weight loss\n-Fever\n-Night sweats\n-Joint pain\n-Muscle pain\n-Skin rash\n-Neurological problems"
+    ],
+    [
+        " Coarctation of the aorta has symptoms:\n-High blood pressure in the arms and low blood pressure in the legs\n-Weak pulses in the legs\n-Leg pain or cramping\n-Cold feet\n-Shortness of breath\n-Chest pain\n-Headaches\n-Nosebleeds\n-Blurred vision\n-Dizziness\n-Fainting",
+        " Mitral valve prolapse has symptoms:\n- Chest pain\n- Shortness of breath\n- Palpitations\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Syncope (fainting)\n- Cough\n- Wheezing",
+        " Patent ductus arteriosus has symptoms:\n- A heart murmur\n- Rapid breathing\n- Difficulty feeding\n- Sweating\n- Poor weight gain\n- Cyanosis (a bluish tint to the skin)",
+        " Tetralogy of Fallot has symptoms:\n-Bluish skin (cyanosis)\n-Shortness of breath\n-Rapid heart rate\n-Fatigue\n-Dizziness or fainting\n-Clubbing of the fingers or toes\n-Chest pain\n-Squatting (to relieve shortness of breath)",
+        " Ventricular septal defect has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Palpitations\n- Cyanosis\n- Heart murmur\n- Clubbing of the fingers\n- Pulmonary hypertension\n- Right ventricular hypertrophy\n- Eisenmenger syndrome"
+    ],
+    [
+        " Supraventricular tachycardia has symptoms:\n-Rapid heart rate (over 100 beats per minute)\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Fainting",
+        " Atrial bigeminy has symptoms:\n-Palpitations\n-Dizziness\n-Lightheadedness\n-Fatigue\n-Shortness of breath\n-Chest pain",
+        " Normal sinus rhythm does not have symptoms.",
+        " Prolonged QT has symptoms:\n-fainting\n-seizures\n-sudden cardiac death",
+        " Atrial fibrillation has symptoms:\n-Rapid heart rate\n-Irregular heart rate\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Confusion\n-Stroke"
+    ],
+    [
+        " Outpouching of ventricular wall has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Fainting\n- Rapid heart rate\n- Irregular heartbeat\n- Heart murmur\n- Sudden cardiac death",
+        " Occlusion of coronary artery stent has symptoms:\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Fainting\n-Nausea\n-Vomiting\n-Sweating\n-Anxiety",
+        " Embolism to left pulmonary artery has symptoms:\n-sudden shortness of breath\n-chest pain\n-coughing\n-wheezing\n-rapid heart rate\n-low blood pressure\n-fainting",
+        " Immune response to cardiac antigens has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Nausea and vomiting\n-Confusion\n-Loss of consciousness",
+        " Rupture of interventricular septum has symptoms:\n-Chest pain\n-Shortness of breath\n-Rapid heart rate\n-Irregular heartbeat\n-Lightheadedness\n-Dizziness\n-Fainting\n-Sudden cardiac death"
+    ],
+    [
+        " Aortic stenosis has symptoms:\n- Chest pain or angina\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting\n- Rapid or irregular heartbeat\n- Weak pulse\n- Swollen feet or ankles\n- Fatigue\n- Difficulty exercising",
+        " Tricuspid atresia has symptoms:\n-Bluish skin (cyanosis)\n-Rapid breathing\n-Difficulty feeding\n-Poor weight gain\n-Swelling in the legs, abdomen, and liver\n-Frequent respiratory infections\n-Hoarseness\n-Enlarged heart\n-Heart murmur",
+        " Pulmonary hypertension has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain\n- Lightheadedness or dizziness\n- Swelling in the feet, ankles, and abdomen\n- Bluish tint to the skin and lips\n- Rapid heart rate\n- Coughing up blood",
+        " Ventricular septal defect has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Palpitations\n- Cyanosis\n- Heart murmur\n- Clubbing of the fingers\n- Pulmonary hypertension\n- Right ventricular hypertrophy\n- Eisenmenger syndrome",
+        " Left ventricular hypertrophy has symptoms:\n-Shortness of breath\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Coughing up blood"
+    ],
+    [
+        " Pulmonary valve stenosis has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Lightheadedness or dizziness\n- Fainting\n- Rapid heart rate\n- Heart murmur",
+        " Patent ductus arteriosus has symptoms:\n- A heart murmur\n- Rapid breathing\n- Difficulty feeding\n- Sweating\n- Poor weight gain\n- Cyanosis (a bluish tint to the skin)",
+        " Ventricular septal defect has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Palpitations\n- Cyanosis\n- Heart murmur\n- Clubbing of the fingers\n- Pulmonary hypertension\n- Right ventricular hypertrophy\n- Eisenmenger syndrome",
+        " Atrial septal defect has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting spells\n-Bluish skin, especially around the lips and fingertips (cyanosis)\n-Frequent respiratory infections",
+        " Atrialization of the right ventricle has symptoms:\n-Palpitations\n-Dyspnea\n-Fatigue\n-Syncope\n-Chest pain\n-Edema"
+    ],
+    [
+        " Aortic valve regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting",
+        " Mitral valve stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Difficulty lying down",
+        " Senile calcific aortic stenosis has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Fainting\n- Rapid heart rate\n- Weak pulse\n- Murmur in the heart",
+        " Accumulation of amyloid in the myocardium has symptoms:\n- shortness of breath\n- fatigue\n- chest pain\n- lightheadedness\n- fainting\n- swelling in the legs, ankles, and feet\n- rapid or irregular heartbeat\n- coughing up blood\n- weight loss\n- nausea\n- vomiting",
+        " Genetic mutation has symptoms:\n-Changes in physical appearance\n-Changes in behavior\n-Changes in cognitive abilities\n-Changes in reproductive abilities\n-Increased risk of certain diseases\n-Changes in the structure or function of proteins\n-Changes in the structure or function of DNA\n-Changes in the structure or function of RNA\n-Changes in the structure or function of chromosomes\n-Changes in the structure or function of genes"
+    ],
+    [
+        " Rupture of an intracranial aneurysm has symptoms:\n-sudden, severe headache\n-nausea\n-vomiting\n-stiff neck\n-blurred or double vision\n-drooping eyelid\n-weakness or numbness on one side of the body\n-seizures\n-loss of consciousness",
+        " Lipohyalinosis of penetrating vessels has symptoms:\n-Hypertension\n-Proteinuria\n-Hematuria\n-Edema\n-Visual disturbances\n-Headaches\n-Nausea\n-Vomiting\n-Seizures\n-Stroke",
+        " Dissection of the vertebral artery has symptoms:\n-sudden onset of severe headache, often described as the worst headache of one's life\n-nausea and vomiting\n-dizziness or vertigo\n-difficulty swallowing\n-hoarseness\n-weakness or paralysis on one side of the body\n-loss of vision in one eye\n-seizures\n-coma",
+        " Stenosis of the internal carotid artery has symptoms:\n- Transient ischemic attacks (TIAs): These are brief episodes of neurological symptoms, such as weakness or numbness on one side of the body, slurred speech, or vision problems, that last for a few minutes to hours and then resolve.\n- Stroke: A stroke occurs when the blood supply to the brain is interrupted, causing brain damage. Symptoms of a stroke can include sudden weakness or numbness on one side of the body, difficulty speaking or understanding speech, vision problems, dizziness, and loss of balance.\n- Carotidynia: This is a condition characterized by pain in the",
+        " Embolism from the left atrium has symptoms:\n-Sudden shortness of breath\n-Chest pain\n-Cough\n-Wheezing\n-Rapid heart rate\n-Lightheadedness or dizziness\n-Fainting\n-Stroke"
+    ],
+    [
+        " Ventricular pseudoaneurysm has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Palpitations\n- Syncope (fainting)\n- Sudden cardiac death",
+        " Transmural necrosis has symptoms:\n-Abdominal pain\n-Nausea\n-Vomiting\n-Diarrhea\n-Fever\n-Chills\n-Sweating\n-Rapid heart rate\n-Low blood pressure\n-Confusion\n-Loss of consciousness",
+        " Subendocardial necrosis has symptoms:\n-Chest pain\n-Shortness of breath\n-Nausea\n-Vomiting\n-Sweating\n-Dizziness\n-Lightheadedness\n-Fainting",
+        " Incomplete occlusion of a coronary artery has symptoms:\n- Chest pain or angina\n- Shortness of breath\n- Lightheadedness or dizziness\n- Nausea or vomiting\n- Pain in the neck, jaw, back, or arms\n- Sweating\n- Fatigue",
+        " Coronary artery spasm has symptoms:\n- Chest pain or discomfort\n- Shortness of breath\n- Nausea\n- Vomiting\n- Sweating\n- Light-headedness\n- Dizziness\n- Fainting"
+    ],
+    [
+        " Aortic stenosis has symptoms:\n- Chest pain or tightness (angina)\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat\n- Fatigue\n- Weakness\n- Swollen feet or ankles",
+        " Mitral insufficiency has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Cough\n-Wheezing",
+        " Positive bubble study has symptoms:\n-Bubbling sensation in the chest\n-Shortness of breath\n-Chest pain\n-Cough\n-Wheezing\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Fever\n-Chills\n-Weight loss",
+        " Ventricular aneurysm has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Fainting\n- Palpitations\n- Rapid heart rate\n- Irregular heart rate\n- Heart failure",
+        " Dynamic left ventricular outflow tract obstruction has symptoms:\n-Dyspnea\n-Syncope\n-Chest pain\n-Palpitations\n-Fatigue\n-Lightheadedness\n-Dizziness"
+    ],
+    [
+        " Acute rheumatic fever has symptoms:\n-Fever\n-Joint pain\n-Swollen joints\n-Red, warm, and tender joints\n-Painful nodules under the skin\n-Chorea (involuntary, jerky movements)\n-Fatigue\n-Weight loss\n-Shortness of breath\n-Chest pain\n-Abdominal pain\n-Nausea\n-Vomiting",
+        " Mitral stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Hoarseness\n- Difficulty lying down",
+        " Aortic regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting",
+        " Tricuspid regurgitation has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Nausea or vomiting\n-Confusion",
+        " Aortic stenosis has symptoms:\n- Chest pain or tightness (angina)\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat\n- Fatigue\n- Weakness\n- Swollen feet or ankles"
+    ],
+    [
+        " Intracranial hemorrhage has symptoms:\n-Headache\n-Nausea\n-Vomiting\n-Seizures\n-Confusion\n-Drowsiness\n-Blurred vision\n-Double vision\n-Weakness or paralysis on one side of the body\n-Difficulty speaking or understanding speech\n-Loss of consciousness",
+        " Central cyanosis has symptoms:\n-Bluish discoloration of the skin and mucous membranes, especially around the lips, fingers, and toes\n-Rapid heart rate\n-Difficulty breathing\n-Wheezing\n-Coughing\n-Chest pain\n-Confusion\n-Loss of consciousness",
+        " Paradoxical embolism has symptoms:\n-sudden shortness of breath\n-chest pain\n-coughing up blood\n-stroke\n-paralysis\n-vision problems\n-confusion\n-fainting",
+        " Abdominal aortic aneurysm has symptoms:\n-Constant pain in the abdomen or back\n-Throbbing sensation in the abdomen\n-Swelling in the abdomen\n-Nausea and vomiting\n-Loss of appetite\n-Weight loss\n-Fever\n-Chills\n-Rapid heart rate\n-Shortness of breath\n-Dizziness\n-Fainting",
+        " Right heart failure has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Nausea and vomiting\n-Rapid heart rate\n-Confusion\n-Lightheadedness\n-Dizziness\n-Fainting"
+    ],
+    [
+        " Uncontrolled essential hypertension has symptoms:\n-Headaches\n-Blurred vision\n-Nausea\n-Vomiting\n-Fatigue\n-Confusion\n-Seizures\n-Stroke\n-Heart attack\n-Kidney failure",
+        " Chronic supraventricular tachycardia has symptoms:\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Syncope\n-Fatigue\n-Anxiety",
+        " Deposition of misfolded proteins has symptoms:\n-neurological symptoms\n-cognitive impairment\n-movement disorders\n-psychiatric symptoms\n-autonomic dysfunction",
+        " Inherited \u03b2-myosin heavy chain mutation has symptoms:\n-Muscle weakness\n-Muscle pain\n-Muscle stiffness\n-Muscle cramps\n-Muscle fatigue\n-Difficulty walking\n-Difficulty climbing stairs\n-Difficulty rising from a seated position\n-Difficulty lifting objects\n-Difficulty swallowing\n-Difficulty breathing\n-Hoarseness\n-Vision problems\n-Hearing problems\n-Cognitive problems\n-Behavioral problems",
+        " Acute psychological stress has symptoms:\n-Increased heart rate\n-Increased blood pressure\n-Sweating\n-Muscle tension\n-Headache\n-Stomachache\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Difficulty sleeping\n-Nightmares\n-Flashbacks\n-Avoidance of situations that remind you of the trauma\n-Difficulty concentrating\n-Irritability\n-Anger\n-Guilt\n-Shame\n-Hopelessness\n-Worthlessness\n-Suicidal thoughts"
+    ],
+    [
+        " Aortic stenosis has symptoms:\n- Chest pain or tightness (angina)\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat\n- Fatigue\n- Weakness\n- Swollen feet or ankles",
+        " Mitral valve insufficiency has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Cough\n-Wheezing",
+        " Left ventricular hypertrophy has symptoms:\n-Shortness of breath\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Coughing up blood",
+        " Coronary sinus dilation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Syncope (fainting)\n-Palpitations\n-Edema (swelling) in the legs, ankles, and feet\n-Abdominal pain\n-Nausea\n-Vomiting",
+        " Tricuspid valve stenosis has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Rapid heart rate\n-Chest pain\n-Hoarseness\n-Difficulty swallowing"
+    ],
+    [
+        " Acute rheumatic fever has symptoms:\n-Fever\n-Joint pain\n-Swollen joints\n-Red, warm, and tender joints\n-Painful nodules under the skin\n-Chorea (involuntary, jerky movements)\n-Fatigue\n-Weight loss\n-Shortness of breath\n-Chest pain\n-Abdominal pain\n-Nausea\n-Vomiting",
+        " Bleeding diathesis secondary to thrombocytopenia has symptoms:\n-Easy bruising\n-Nosebleeds\n-Gum bleeding\n-Heavy menstrual bleeding\n-Blood in the urine or stool\n-Skin rash\n-Petechiae (small, red dots on the skin)\n-Ecchymoses (large, purple bruises)\n-Hematomas (collections of blood under the skin)",
+        " Dilated cardiomyopathy has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Coughing up pink or blood-tinged sputum\n-Difficulty concentrating or memory loss",
+        " Hypertrophic cardiomyopathy has symptoms:\n- Shortness of breath, especially with exertion\n- Chest pain, which may feel like pressure or squeezing\n- Lightheadedness, dizziness or fainting\n- Palpitations (a sensation of a rapid or irregular heartbeat)\n- Fatigue\n- Swelling in the feet, ankles and abdomen",
+        " Infective endocarditis has symptoms:\n-Fever\n-Chills\n-Fatigue\n-Weight loss\n-Night sweats\n-Muscle aches\n-Joint pain\n-Skin rash\n-Neurological problems\n-Heart failure"
+    ],
+    [
+        " Ovarian dysgenesis has symptoms:\n-Primary amenorrhea\n-Infertility\n-Hot flashes\n-Night sweats\n-Mood swings\n-Vaginal dryness\n-Painful intercourse\n-Osteoporosis\n-Short stature\n-Webbed neck\n-Low hairline\n-Acne\n-Hirsutism",
+        " Absent uterus has symptoms:\n-Primary amenorrhea (absence of menstrual periods)\n-Infertility\n-Pelvic pain\n-Urinary tract infections\n-Recurrent vaginal infections\n-Back pain\n-Leg pain\n-Constipation\n-Diarrhea\n-Nausea\n-Vomiting\n-Bloating\n-Gas\n-Weight gain\n-Acne\n-Hirsutism (excessive hair growth)\n-Mood swings\n-Depression\n-Anxiety",
+        " Mitral valve prolapse has symptoms:\n- Chest pain\n- Shortness of breath\n- Palpitations\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Syncope (fainting)\n- Cough\n- Wheezing",
+        " Triphalangeal thumb has symptoms:\n-An extra bone in the thumb\n-A shorter thumb than normal\n-A thumb that is bent inward\n-Difficulty moving the thumb\n-Pain in the thumb\n-Weakness in the thumb\n-A bump on the thumb",
+        " Horseshoe adrenal gland has symptoms:\n-Cushing's syndrome\n-Hypertension\n-Hypoglycemia\n-Weight gain\n-Muscle weakness\n-Fatigue\n-Skin changes\n-Mood changes\n-Headaches\n-Blurred vision\n-Increased thirst\n-Frequent urination"
+    ],
+    [
+        " Left ventricular failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Confusion\n-Nausea or vomiting",
+        " Tricuspid regurgitation has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Nausea or vomiting\n-Confusion",
+        " Acute respiratory distress syndrome has symptoms:\n-Rapid breathing\n-Shortness of breath\n-Wheezing\n-Coughing\n-Rapid heart rate\n-Low blood pressure\n-Confusion\n-Fatigue\n-Bluish skin",
+        " Pulmonary embolism has symptoms:\n- Shortness of breath\n- Chest pain\n- Coughing\n- Rapid heart rate\n- Lightheadedness or fainting\n- Sweating\n- Fever\n- Bluish skin or lips",
+        " Interstitial pneumonia has symptoms:\n- Shortness of breath\n- Dry cough\n- Fatigue\n- Weakness\n- Weight loss\n- Fever\n- Night sweats\n- Chest pain\n- Wheezing\n- Crackling sounds in the lungs"
+    ],
+    [
+        " Unstable angina pectoris has symptoms:\n-Chest pain or discomfort\n-Shortness of breath\n-Nausea\n-Vomiting\n-Sweating\n-Light-headedness\n-Dizziness\n-Fainting",
+        " Stress cardiomyopathy has symptoms:\n-Chest pain\n-Shortness of breath\n-Nausea\n-Vomiting\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Fainting",
+        " Hibernating myocardium has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Fainting\n- Rapid heart rate\n- Irregular heart rate\n- Heart failure",
+        " Myocardial scarring has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Palpitations\n- Syncope (fainting)\n- Sudden cardiac death",
+        " Cardiac remodeling has symptoms:\n-Dyspnea\n-Fatigue\n-Edema\n-Palpitations\n-Chest pain\n-Syncope"
+    ],
+    [
+        " Aortic regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting",
+        " Pulmonary regurgitation has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Cough\n-Wheezing\n-Hemoptysis (coughing up blood)",
+        " Tricuspid stenosis has symptoms:\n-Fatigue\n-Shortness of breath\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Bluish discoloration of the skin and lips",
+        " Aortic stenosis has symptoms:\n- Chest pain or tightness (angina)\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat\n- Fatigue\n- Weakness\n- Swollen feet or ankles",
+        " Tricuspid regurgitation has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Nausea or vomiting\n-Confusion"
+    ],
+    [
+        " Ventricular dilation has symptoms:\n-Shortness of breath\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Fainting\n-Rapid heart rate\n-Irregular heartbeat\n-Swelling in the feet, ankles, and abdomen\n-Fatigue\n-Weakness",
+        " Left ventricular hypertrophy has symptoms:\n-Shortness of breath\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Coughing up blood",
+        " Increased filling pressures has symptoms:\n-Dyspnea\n-Orthopnea\n-Paroxysmal nocturnal dyspnea\n-Fatigue\n-Edema\n-Hepatomegaly\n-Ascites\n-Jugular venous distension\n-Rales\n-Wheezing",
+        " Mitral regurgitation has symptoms:\n-Shortness of breath, especially when lying down or during exercise\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Cough\n-Wheezing\n-Lightheadedness or dizziness\n-Fainting",
+        " Mitral stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Hoarseness\n- Difficulty lying down"
+    ],
+    [
+        " Gout has symptoms:\n-sudden and severe joint pain\n-swelling in the affected joint\n-redness and warmth in the affected joint\n-difficulty moving the affected joint\n-fever and chills\n-fatigue\n-loss of appetite",
+        " Erectile dysfunction has symptoms:\n-Difficulty getting or keeping an erection\n-Reduced sexual desire\n-Difficulty reaching orgasm\n-Painful ejaculation\n-Low self-esteem\n-Relationship problems",
+        " Arthritis has symptoms:\n- Joint pain\n-Swelling\n-Stiffness\n-Redness\n-Warmth\n-Tenderness\n-Loss of range of motion\n-Crepitus (a grating or grinding sensation)\n-Weakness\n-Fatigue\n-Weight loss\n-Fever\n-Chills",
+        " Mitral stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Hoarseness\n- Difficulty lying down",
+        " Diabetic peripheral neuropathy has symptoms:\n-numbness\n-tingling\n-burning pain\n-muscle weakness\n-loss of coordination\n-foot ulcers\n-skin infections\n-difficulty walking"
+    ],
+    [
+        " Left ventricular failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Confusion\n-Nausea or vomiting",
+        " Ventricular aneurysm has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Fainting\n- Palpitations\n- Rapid heart rate\n- Irregular heart rate\n- Heart failure",
+        " Hemorrhagic stroke has symptoms:\n-Sudden severe headache\n-Nausea and vomiting\n-Confusion or loss of consciousness\n-Seizures\n-Weakness or paralysis on one side of the body\n-Difficulty speaking or understanding speech\n-Vision problems\n-Dizziness or loss of balance",
+        " Cardiac free wall rupture has symptoms:\n-Chest pain\n-Dyspnea\n-Hypotension\n-Tachycardia\n-Cardiogenic shock\n-Cardiac tamponade\n-Death",
+        " Ventricular fibrillation has symptoms:\n-Rapid, irregular heart rate\n-Dizziness\n-Lightheadedness\n-Confusion\n-Seizures\n-Loss of consciousness"
+    ],
+    [
+        " Right atrial hypertrophy has symptoms:\n-Swelling in the legs, ankles, and feet\n-Shortness of breath\n-Fatigue\n-Chest pain\n-Lightheadedness or dizziness\n-Rapid heart rate\n-Palpitations\n-Cough\n-Nausea\n-Vomiting",
+        " Left atrial hypertrophy has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Chest pain or discomfort\n-Lightheadedness or dizziness\n-Palpitations\n-Cough\n-Wheezing\n-Swelling in the feet, ankles, and abdomen",
+        " Left ventricular concentric hypertrophy has symptoms:\n-Shortness of breath\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Fatigue\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Cough\n-Wheezing",
+        " Left ventricular eccentric hypertrophy has symptoms:\n-Shortness of breath\n-Fatigue\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Cough\n-Wheezing",
+        " Mitral stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Hoarseness\n- Difficulty lying down"
+    ],
+    [
+        " Mitral Regurgitation has symptoms:\n-Shortness of breath, especially when lying down or during exercise\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Cough\n-Wheezing\n-Lightheadedness or dizziness\n-Fainting",
+        " Aortic Stenosis has symptoms:\n- Chest pain or tightness (angina)\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat\n- Weak pulse\n- Swollen feet or ankles\n- Fatigue\n- Difficulty exercising",
+        " Mitral Stenosis has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Chest pain or discomfort\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Cough, sometimes with blood\n-Hoarseness\n-Difficulty swallowing",
+        " Aortic Regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea\n-Vomiting",
+        " Tricuspid Regurgitation has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Nausea or vomiting\n-Confusion\n-Rapid weight gain"
+    ],
+    [
+        " Atrial fibrillation has symptoms:\n-Rapid heart rate\n-Irregular heart rate\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Confusion\n-Stroke",
+        " Constrictive pericarditis has symptoms:\n- Shortness of breath\n- Fatigue\n- Chest pain\n- Swelling in the legs, abdomen, and neck\n- Hoarseness\n- Difficulty swallowing\n- Nausea and vomiting\n- Weight gain\n- Ascites\n- Hepatomegaly\n- Splenomegaly\n- Pericardial knock\n- Pulsus paradoxus",
+        " Dilated cardiomyopathy has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Coughing up pink or blood-tinged sputum\n-Difficulty concentrating or memory loss",
+        " Hypertrophic cardiomyopathy has symptoms:\n- Shortness of breath, especially with exertion\n- Chest pain, which may feel like pressure or squeezing\n- Lightheadedness, dizziness or fainting\n- Palpitations (a sensation of a rapid or irregular heartbeat)\n- Fatigue\n- Swelling in the feet, ankles and abdomen",
+        " Restrictive cardiomyopathy has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting"
+    ],
+    [
+        " Occlusion of the posterior descending artery has symptoms:\n-Chest pain\n-Shortness of breath\n-Nausea\n-Vomiting\n-Sweating\n-Dizziness\n-Lightheadedness\n-Fainting\n-Cardiac arrest",
+        " Exudative inflammation of the pericardium has symptoms:\n-Chest pain\n-Shortness of breath\n-Cough\n-Fatigue\n-Weakness\n-Fever\n-Chills\n-Nausea\n-Vomiting\n-Abdominal pain\n-Swelling of the feet, ankles, and abdomen",
+        " Pseudoaneurysmatic dilation of the left ventricle has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Palpitations\n- Syncope (fainting)\n- Sudden cardiac death",
+        " Rupture of the interventricular septum has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Fainting\n-Rapid heart rate\n-Irregular heartbeat\n-Murmur\n-Edema",
+        " Bacterial infection of the mitral valve endocardium has symptoms:\n-Fever\n-Chills\n-Fatigue\n-Weakness\n-Shortness of breath\n-Chest pain\n-Nausea\n-Vomiting\n-Diarrhea\n-Confusion\n-Seizures"
+    ],
+    [
+        " Hypertrophic cardiac myopathy has symptoms:\n- Shortness of breath, especially with exertion\n- Chest pain\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat (palpitations)\n- Fatigue\n- Swelling in the feet, ankles, and abdomen\n- Hoarseness\n- Difficulty swallowing",
+        " Essential hypertension has symptoms:\n-Headaches\n-Blurred vision\n-Dizziness\n-Fatigue\n-Nausea\n-Vomiting\n-Shortness of breath\n-Chest pain\n-Palpitations\n-Anxiety\n-Insomnia",
+        " Cardiac tamponade has symptoms:\n-Rapid heart rate\n-Low blood pressure\n-Muffled heart sounds\n-Neck vein distension\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Confusion\n-Loss of consciousness",
+        " Torsades de pointes has symptoms:\n-Rapid heart rate\n-Lightheadedness\n-Dizziness\n-Fainting\n-Chest pain\n-Shortness of breath",
+        " First degree atrioventricular block has symptoms:\n-Fatigue\n-Dizziness\n-Lightheadedness\n-Syncope (fainting)\n-Palpitations\n-Chest pain\n-Shortness of breath"
+    ],
+    [
+        " Ventricular septal defect has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Palpitations\n- Cyanosis\n- Heart murmur\n- Clubbing of the fingers\n- Pulmonary hypertension\n- Right ventricular hypertrophy\n- Eisenmenger syndrome",
+        " Tricuspid stenosis has symptoms:\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Hoarseness\n-Difficulty swallowing",
+        " Tricuspid regurgitation has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Nausea or vomiting\n-Confusion",
+        " Mitral stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Hoarseness\n- Difficulty lying down",
+        " Mitral regurgitation has symptoms:\n-Shortness of breath, especially when lying down or during exercise\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Cough, sometimes with pink or blood-tinged sputum\n-Difficulty breathing when lying down\n-Wheezing\n-Hoarseness\n-Lightheadedness or dizziness\n-Fainting"
+    ],
+    [
+        " Budd-Chiari syndrome has symptoms:\n-abdominal pain\n-ascites\n-distention\n-hepatomegaly\n-jaundice\n-lower extremity edema\n-portal hypertension\n-splenomegaly",
+        " Congestive heart failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Nausea and vomiting\n-Confusion\n-Weight gain\n-Decreased urine output",
+        " Hepatic metastasis has symptoms:\n-Nausea\n-Vomiting\n-Abdominal pain\n-Jaundice\n-Weight loss\n-Fatigue\n-Pruritus\n-Dark urine\n-Light-colored stools\n-Swelling in the abdomen\n-Fever\n-Chills\n-Night sweats",
+        " Common bile duct obstruction has symptoms:\n- Abdominal pain\n- Jaundice\n- Dark urine\n- Light-colored stools\n- Itching\n- Fever\n- Chills\n- Nausea\n- Vomiting\n- Weight loss",
+        " Amebic liver abscess has symptoms:\n-Fever\n-Chills\n-Nausea\n-Vomiting\n-Abdominal pain\n-Diarrhea\n-Weight loss\n-Fatigue\n-Dark urine\n-Light-colored stools"
+    ],
+    [
+        " Left ventricular failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Confusion\n-Nausea or vomiting",
+        " Aortic valve sclerosis has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Fainting\n- Rapid heart rate\n- Irregular heartbeat\n- Swollen feet\n- Fatigue\n- Weakness",
+        " Ventricular septal rupture has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Rapid heart rate\n-Murmur\n-Cardiogenic shock",
+        " Right ventricular hypertrophy has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Coughing up blood",
+        " Mitral valve stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Difficulty lying down"
+    ],
+    [
+        " Paroxysmal atrial fibrillation has symptoms:\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Fainting\n-Confusion\n-Stroke",
+        " Panic attacks has symptoms:\n- Chest pain\n- Chills or hot flashes\n- Feeling faint, dizzy, or lightheaded\n- Feeling like you're choking\n- Feeling like you're going to die\n- Feeling like you're losing control\n- Feeling restless or agitated\n- Increased heart rate\n- Nausea or vomiting\n- Shortness of breath\n- Sweating\n- Trembling or shaking",
+        " Ventricular tachycardia has symptoms:\n- Palpitations\n- Chest pain\n- Shortness of breath\n- Lightheadedness\n- Dizziness\n- Syncope (fainting)",
+        " Atrioventricular reentrant tachycardia has symptoms:\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Syncope",
+        " Atrioventricular block, Mobitz Type II has symptoms:\n-Lightheadedness\n-Dizziness\n-Fatigue\n-Syncope (fainting)\n-Chest pain\n-Shortness of breath\n-Palpitations"
+    ],
+    [
+        " Aspiration pneumonia has symptoms:\n-Cough\n-Chest pain\n-Shortness of breath\n-Wheezing\n-Fever\n-Chills\n-Nausea\n-Vomiting\n-Diarrhea\n-Confusion\n-Lethargy",
+        " Chronic obstructive pulmonary disease has symptoms:\n- Shortness of breath, especially with exertion\n- Wheezing\n- Chest tightness\n- Coughing, with or without mucus\n- Fatigue\n- Weight loss\n- Swelling in the feet, ankles, and legs\n- Bluish tint to the lips and fingernails",
+        " Left ventricular failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Confusion\n-Nausea or vomiting",
+        " Pulmonary embolism has symptoms:\n- Shortness of breath\n- Chest pain\n- Coughing\n- Rapid heart rate\n- Lightheadedness or fainting\n- Sweating\n- Fever\n- Bluish skin or lips",
+        " Right ventricular failure has symptoms:\n-Swelling in the feet, ankles, and abdomen\n-Shortness of breath\n-Fatigue\n-Nausea and vomiting\n-Confusion\n-Rapid heart rate\n-Low blood pressure\n-Chest pain"
+    ],
+    [
+        " Mitral regurgitation has symptoms:\n-Shortness of breath, especially when lying down or during exercise\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Cough\n-Wheezing\n-Lightheadedness or dizziness\n-Fainting",
+        " Lobar pneumonia has symptoms:\n- Fever\n- Chills\n- Cough\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Loss of appetite\n- Nausea\n- Vomiting\n- Diarrhea",
+        " Hypertrophic cardiomyopathy has symptoms:\n- Shortness of breath, especially with exertion\n- Chest pain, which may feel like pressure or squeezing\n- Lightheadedness, dizziness or fainting\n- Palpitations (a sensation of a rapid or irregular heartbeat)\n- Fatigue\n- Swelling in the feet, ankles and abdomen",
+        " Congestive heart failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Nausea and vomiting\n-Confusion\n-Weight gain\n-Decreased urine output",
+        " Asthma has symptoms:\n- Shortness of breath\n- Wheezing\n- Coughing\n- Chest tightness\n- Difficulty sleeping\n- Fatigue\n- Loss of appetite\n- Weight loss\n- Increased heart rate\n- Anxiety\n- Depression"
+    ],
+    [
+        " Inferior rib notching has symptoms:\n-Pain in the upper abdomen\n-Nausea\n-Vomiting\n-Diarrhea\n-Weight loss\n-Fatigue\n-Weakness\n-Shortness of breath\n-Dizziness\n-Lightheadedness\n-Confusion\n-Seizures\n-Coma",
+        " Interarm difference in tissue oxygenation has symptoms:\n-Swelling in the arm\n-Pain in the arm\n-Redness in the arm\n-Warmth in the arm\n-Difficulty moving the arm\n-Weakness in the arm\n-Numbness in the arm\n-Tingling in the arm\n-Skin discoloration in the arm\n-Ulcers on the arm",
+        " Pulmonary valve stenosis has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Lightheadedness or dizziness\n- Fainting\n- Rapid heart rate\n- Heart murmur",
+        " Left-axis deviation on ECG has symptoms:\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Fainting\n-Palpitations\n-Fatigue\n-Weakness\n-Confusion\n-Seizures",
+        " Delayed pulse in lower extremities has symptoms:\n-Coolness in the affected limb\n-Numbness or tingling in the affected limb\n-Pain in the affected limb\n-Muscle weakness in the affected limb\n-Skin discoloration in the affected limb\n-Hair loss on the affected limb\n-Slow-healing sores on the affected limb"
+    ],
+    [
+        " Cerebral atrophy has symptoms:\n-Memory loss\n-Difficulty with language\n-Problems with movement\n-Changes in personality\n-Seizures\n-Headaches\n-Nausea\n-Vomiting\n-Vision problems\n-Hearing problems",
+        " Saccular aneurysm has symptoms:\n-Sudden, severe headache\n-Nausea and vomiting\n-Stiff neck\n-Blurred or double vision\n-Drooping eyelid\n-Weakness or numbness on one side of the face\n-Difficulty speaking or swallowing\n-Seizures\n-Loss of consciousness",
+        " Alcoholism has symptoms:\n-Alcohol dependence\n-Alcohol withdrawal\n-Blackouts\n-Cravings\n-Increased tolerance\n-Liver damage\n-Memory loss\n-Mood swings\n-Nausea and vomiting\n-Poor coordination\n-Slurred speech\n-Tremors\n-Weight loss",
+        " Amyloid angiopathy has symptoms:\n-Headaches\n-Seizures\n-Confusion\n-Memory loss\n-Difficulty speaking or swallowing\n-Weakness or paralysis on one side of the body\n-Vision problems\n-Hearing loss\n-Nerve damage\n-Kidney failure\n-Heart failure",
+        " Pterion fracture has symptoms:\n-Scalp swelling\n-Bruising around the eye\n-Tenderness over the temple\n-Numbness or tingling in the forehead or cheek\n-Difficulty moving the jaw\n-Vision problems\n-Hearing loss\n-Cerebrospinal fluid leak\n-Brain damage"
+    ],
+    [
+        " Hypertrophic obstructive cardiomyopathy has symptoms:\n-Shortness of breath\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Fainting\n-Palpitations\n-Fatigue\n-Swelling in the feet and ankles",
+        " Hypothyroidism has symptoms:\n-fatigue\n-weight gain\n-constipation\n-dry skin\n-hair loss\n-brittle nails\n-muscle weakness\n-joint pain\n-depression\n-anxiety\n-memory loss\n-infertility\n-irregular menstrual cycles\n-heavy menstrual bleeding\n-goiter",
+        " Heat exhaustion has symptoms:\n-Heavy sweating\n-Weakness\n-Dizziness\n-Headache\n-Nausea or vomiting\n-Rapid pulse\n-Rapid breathing\n-Dark urine\n-Muscle cramps",
+        " Amphetamine use has symptoms:\n-Increased heart rate\n-Increased blood pressure\n-Dilated pupils\n-Sweating\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Confusion\n-Anxiety\n-Paranoia\n-Hallucinations\n-Seizures\n-Stroke\n-Heart attack\n-Death",
+        " Anorexia nervosa has symptoms:\n-Restriction of food intake relative to requirements, leading to significantly low body weight (in context, \"significantly low\" is defined as a body mass index (BMI) of <18.5 kg/m2 or, for children and adolescents, a weight that is less than minimally normal)\n-Intense fear of gaining weight or becoming fat, even though underweight\n-Disturbance in the way in which one's body weight or shape is experienced, undue influence of body weight or shape on self-evaluation, or persistent lack of recognition of the seriousness of the current low body weight"
+    ],
+    [
+        " Eosinophilic granulomatosis with polyangiitis (EGPA) has symptoms:\n- Asthma\n- Joint pain\n- Muscle pain\n- Skin rash\n- Fatigue\n- Weight loss\n- Fever\n- Cough\n- Shortness of breath\n- Chest pain\n- Abdominal pain\n- Nausea\n- Vomiting\n- Diarrhea\n- Kidney problems\n- Nerve problems",
+        " Chagas disease has symptoms:\n-Fever\n-Headache\n-Muscle pain\n-Swollen lymph nodes\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Skin rash\n-Eyelid swelling\n-Difficulty swallowing\n-Heart failure\n-Stroke\n-Dementia",
+        " Primary dilated cardiomyopathy has symptoms:\n-Shortness of breath, especially with exertion\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Coughing up pink or blood-tinged sputum\n-Difficulty concentrating or memory loss",
+        " Loeffler's endocarditis has symptoms:\n-tachycardia\n-dyspnea\n-fever\n-chills\n-weight loss\n-anemia\n-emboli\n-splenomegaly\n-hepatomegaly\n-renal failure\n-neurological symptoms",
+        " Extrinsic asthma has symptoms:\n- Wheezing\n- Shortness of breath\n- Chest tightness\n- Coughing\n- Sneezing\n- Runny nose\n- Itchy eyes\n- Watery eyes"
+    ],
+    [
+        " Aortic regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting",
+        " Chronic obstructive pulmonary disease has symptoms:\n- Shortness of breath, especially with exertion\n- Wheezing\n- Chest tightness\n- Coughing, with or without mucus\n- Fatigue\n- Weight loss\n- Swelling in the feet, ankles, and legs\n- Bluish tint to the lips and fingernails",
+        " Mitral stenosis has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain or discomfort\n- Lightheadedness or dizziness\n- Palpitations\n- Cough, sometimes with blood\n- Swollen feet, ankles, and abdomen\n- Hoarseness\n- Difficulty lying down",
+        " Pulmonary hypertension has symptoms:\n- Shortness of breath, especially with exertion\n- Fatigue\n- Chest pain\n- Lightheadedness or dizziness\n- Swelling in the ankles, feet, and abdomen\n- Bluish tint to the skin and lips\n- Rapid heart rate\n- Coughing up blood",
+        " Systemic hypertension has symptoms:\n-Headache\n-Blurred vision\n-Nausea\n-Vomiting\n-Fatigue\n-Confusion\n-Seizures\n-Coma"
+    ],
+    [
+        " Arteriovenous malformations has symptoms:\n-Seizures\n-Headaches\n-Weakness or paralysis on one side of the body\n-Difficulty speaking or understanding speech\n-Vision problems\n-Hearing loss\n-Nosebleeds\n-Tinnitus (ringing in the ears)\n-Dizziness\n-Confusion\n-Stroke",
+        " Carotid artery atherosclerosis has symptoms:\n- Transient ischemic attacks (TIAs): These are brief episodes of neurological symptoms, such as weakness or numbness on one side of the body, slurred speech, or vision problems, that last for a few minutes to hours.\n- Stroke: A stroke occurs when the blood supply to the brain is interrupted, which can cause permanent damage to brain tissue. Symptoms of a stroke can include sudden weakness or numbness on one side of the body, difficulty speaking or understanding speech, vision problems, dizziness, or loss of balance.\n- Carotidynia: This is a condition characterized by pain in the neck",
+        " Charcot-Bouchard aneurysm has symptoms:\n-Headache\n-Nausea\n-Vomiting\n-Seizures\n-Focal neurological deficits\n-Subarachnoid hemorrhage",
+        " Hyaline arteriosclerosis has symptoms:\n-High blood pressure\n-Chest pain\n-Shortness of breath\n-Nausea\n-Vomiting\n-Confusion\n-Seizures\n-Coma",
+        " Hypertensive encephalopathy has symptoms:\n-Headache\n-Nausea\n-Vomiting\n-Seizures\n-Confusion\n-Blurred vision\n-Dizziness\n-Stroke"
+    ],
+    [
+        " Left-sided heart failure has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Lightheadedness or dizziness\n-Confusion\n-Nausea or vomiting",
+        " Coronary artery disease has symptoms:\n- Chest pain or discomfort (angina)\n- Shortness of breath\n- Pain in the neck, jaw, back, or arm\n- Nausea, vomiting, or light-headedness\n- Extreme fatigue\n- Sweating",
+        " Liver disease has symptoms:\n-Fatigue\n-Nausea\n-Vomiting\n-Abdominal pain\n-Swelling in the legs and ankles\n-Dark urine\n-Light-colored stools\n-Itchy skin\n-Yellowing of the skin and eyes (jaundice)",
+        " Budd-Chiari syndrome has symptoms:\n-Abdominal pain\n-Ascites\n-Enlarged liver\n-Jaundice\n-Nausea\n-Vomiting\n-Weight loss\n-Itching\n-Fatigue\n-Weakness\n-Confusion\n-Coma",
+        " Cor pulmonale has symptoms:\n-Shortness of breath\n-Fatigue\n-Weakness\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Confusion\n-Bluish discoloration of the skin and lips"
+    ],
+    [
+        " Multinuclear giant cells with elastic membrane fragmentation on arterial biopsy has symptoms:\n-Hypertension\n-Headache\n-Blurred vision\n-Nausea\n-Vomiting\n-Seizures\n-Stroke",
+        " Transmural inflammation with fibrinoid necrosis on arterial biopsy has symptoms:\n-Hypertension\n-Headache\n-Visual disturbances\n-Nausea\n-Vomiting\n-Seizures\n-Stroke\n-Kidney failure\n-Heart failure",
+        " Pulmonary artery microaneurysms on pulmonary angiography has symptoms:\n-Dyspnea\n-Chest pain\n-Cough\n-Hemoptysis\n-Fatigue\n-Weakness\n-Weight loss\n-Night sweats\n-Fever\n-Clubbing of the fingers",
+        " Presence of anti-myeloperoxidase antibodies in the serum has symptoms:\n-joint pain\n-joint swelling\n-skin rashes\n-fatigue\n-weight loss\n-fever\n-night sweats\n-lymphadenopathy\n-organomegaly\n-anemia\n-leukopenia\n-thrombocytopenia",
+        " Presence of anti-proteinase 3 antibodies in the serum has symptoms:\n- Joint pain\n-Swelling\n-Stiffness\n-Fatigue\n-Weight loss\n-Skin rashes\n-Kidney problems\n-Lung problems\n-Heart problems"
+    ],
+    [
+        " Mitral regurgitation has symptoms:\n-Shortness of breath, especially when lying down or during exercise\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid or irregular heartbeat\n-Chest pain\n-Cough, sometimes with pink or blood-tinged sputum\n-Difficulty breathing when lying down\n-Wheezing\n-Hoarseness\n-Lightheadedness or dizziness\n-Fainting",
+        " Aortic stenosis has symptoms:\n- Chest pain or tightness (angina)\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting (syncope)\n- Rapid or irregular heartbeat\n- Fatigue\n- Weakness\n- Swollen feet or ankles",
+        " Pulmonary regurgitation has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Cough\n-Wheezing\n-Hemoptysis (coughing up blood)",
+        " Tricuspid stenosis has symptoms:\n-Fatigue\n-Shortness of breath\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting\n-Bluish discoloration of the lips and fingernails",
+        " Aortic regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting"
+    ],
+    [
+        " Atenolol has symptoms:\n-Slow heart rate\n-Dizziness\n-Lightheadedness\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fainting",
+        " Verapamil has symptoms:\n-Constipation\n-Nausea\n-Headache\n-Dizziness\n-Flushing\n-Hypotension\n-Bradycardia\n-Atrioventricular block\n-Heart failure",
+        " Diltiazem has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Lightheadedness\n-Flushing\n-Constipation\n-Diarrhea\n-Abdominal pain\n-Muscle cramps\n-Weakness\n-Fatigue\n-Drowsiness\n-Insomnia\n-Anxiety\n-Depression\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Chest pain\n-Rapid heartbeat\n-Slow heartbeat\n-Fainting",
+        " Propafenone has symptoms:\n-Nausea\n-Vomiting\n-Constipation\n-Dizziness\n-Headache\n-Blurred vision\n-Confusion\n-Seizures\n-Slow heart rate\n-Chest pain\n-Shortness of breath",
+        " Digoxin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Confusion\n-Dizziness\n-Blurred vision\n-Yellowing of the skin or eyes\n-Dark urine\n-Pale stools\n-Rapid heart rate\n-Slow heart rate\n-Irregular heart rate\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Weakness\n-Muscle cramps\n-Seizures"
+    ],
+    [
+        " Spironolactone has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Fatigue\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat\n-Confusion\n-Seizures",
+        " Amiloride has symptoms:\n-Hyperkalemia\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Fatigue\n-Muscle cramps\n-Skin rash",
+        " Hydrochlorothiazide has symptoms:\n-Electrolyte imbalance\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Fatigue\n-Muscle cramps\n-Skin rash\n-Dry mouth\n-Increased thirst\n-Constipation\n-Diarrhea\n-Blurred vision\n-Increased sensitivity to sunlight\n-Weight gain\n-Swelling in the hands or feet",
+        " Furosemide has symptoms:\n-Increased urination\n-Thirst\n-Dry mouth\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Muscle cramps\n-Weakness\n-Fatigue\n-Confusion\n-Seizures",
+        " Acetazolamide has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Drowsiness\n-Fatigue\n-Blurred vision\n-Ringing in the ears\n-Skin rash\n-Itching\n-Hives\n-Difficulty breathing\n-Swelling of the face, lips, tongue, or throat"
+    ],
+    [
+        " Epinephrine has symptoms:\n-Anxiety\n-Headache\n-Nausea\n-Vomiting\n-Dizziness\n-Weakness\n-Rapid heart rate\n-High blood pressure\n-Difficulty breathing\n-Chest pain\n-Seizures\n-Coma",
+        " Milrinone has symptoms:\n-Hypotension\n-Headache\n-Nausea\n-Vomiting\n-Arrhythmias\n-Tachycardia\n-Chest pain\n-Dyspnea\n-Oliguria\n-Thrombocytopenia",
+        " Isoproterenol has symptoms:\n-tachycardia\n-palpitations\n-arrhythmias\n-hypertension\n-headache\n-nausea\n-vomiting\n-tremor\n-anxiety\n-insomnia",
+        " Norepinephrine has symptoms:\n-Increased heart rate\n-Increased blood pressure\n-Sweating\n-Dilated pupils\n-Anxiety\n-Restlessness\n-Insomnia\n-Headache\n-Nausea\n-Vomiting",
+        " Dobutamine has symptoms:\n-Headache\n-Nausea\n-Vomiting\n-Dizziness\n-Lightheadedness\n-Chest pain\n-Shortness of breath\n-Rapid heart rate\n-Irregular heartbeat\n-Sweating\n-Anxiety\n-Restlessness"
+    ],
+    [
+        " Malignancy has symptoms:\n-A lump in the breast or other part of the body\n-Changes in the size, shape, or appearance of a mole\n-A sore that does not heal\n-Bleeding or discharge from the nipple\n-Weight loss\n-Fatigue\n-Fever\n-Night sweats\n-Pain\n-Difficulty breathing\n-Hoarseness\n-Persistent cough\n-Blood in the stool\n-Abdominal pain\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Unexplained weight loss\n-Swollen lymph nodes",
+        " Myocardial infarction has symptoms:\n-Chest pain or discomfort.\n-Shortness of breath.\n-Pain in the neck, jaw, back, or arm.\n-Nausea, vomiting, or light-headedness.\n-Sweating.\n-Rapid or irregular heartbeat.",
+        " Rheumatoid arthritis has symptoms:\n-Joint pain, swelling, and stiffness\n-Fatigue\n-Weight loss\n-Fever\n-Muscle aches\n-Skin rashes\n-Eye inflammation\n-Lung problems\n-Heart problems\n-Anemia\n-Osteoporosis",
+        " Uremia has symptoms:\n-Nausea\n-Vomiting\n-Fatigue\n-Weakness\n-Loss of appetite\n-Itching\n-Muscle cramps\n-Swelling in the feet and ankles\n-Confusion\n-Seizures\n-Coma",
+        " Viral illness has symptoms:\n- Fever\n- Chills\n- Muscle aches\n- Headache\n- Fatigue\n- Sore throat\n- Congestion\n- Runny nose\n- Sneezing\n- Coughing\n- Shortness of breath\n- Diarrhea\n- Vomiting\n- Nausea\n- Abdominal pain"
+    ],
+    [
+        " Digoxin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Confusion\n-Dizziness\n-Blurred vision\n-Yellowing of the skin or eyes\n-Dark urine\n-Pale stools\n-Rapid heart rate\n-Slow heart rate\n-Irregular heart rate\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Weakness\n-Muscle cramps\n-Seizures",
+        " Propranolol has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Lightheadedness\n-Fatigue\n-Weakness\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Slow heart rate\n-Low blood pressure",
+        " Verapamil has symptoms:\n-Constipation\n-Nausea\n-Headache\n-Dizziness\n-Flushing\n-Hypotension\n-Bradycardia\n-Atrioventricular block\n-Heart failure",
+        " Amiodarone has symptoms:\n-Nausea\n-Vomiting\n-Constipation\n-Dizziness\n-Headache\n-Blurred vision\n-Dry mouth\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat\n-Fainting",
+        " Lidocaine has symptoms:\n-Dizziness\n-Drowsiness\n-Nausea\n-Vomiting\n-Blurred vision\n-Confusion\n-Seizures\n-Coma\n-Cardiac arrhythmias\n-Hypotension\n-Respiratory depression"
+    ],
+    [
+        " Postmyocardial infarction syndrome has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Weakness\n- Lightheadedness\n- Dizziness\n- Fainting\n- Nausea\n- Vomiting\n- Anxiety\n- Depression",
+        " Aortic root dilation has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting\n- Rapid heart rate\n- Cough\n- Wheezing\n- Difficulty swallowing\n- Hoarseness",
+        " Rupture of the chordae tendinae has symptoms:\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Fainting\n-Rapid heart rate\n-Irregular heartbeat\n-Murmur\n-Edema\n-Fatigue",
+        " Rupture of the ventricular free wall has symptoms:\n-Chest pain\n-Shortness of breath\n-Rapid heart rate\n-Low blood pressure\n-Cardiac tamponade\n-Cardiogenic shock",
+        " Rupture of the interventricular septum has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness\n-Dizziness\n-Fainting\n-Rapid heart rate\n-Irregular heartbeat\n-Murmur\n-Edema"
+    ],
+    [
+        " Esmolol has symptoms:\n-Hypotension\n-Bradycardia\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Lightheadedness\n-Blurred vision\n-Confusion\n-Seizures",
+        " Sotalol has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Lightheadedness\n-Bradycardia\n-Hypotension\n-QTc prolongation\n-Torsades de pointes",
+        " Procainamide has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Headache\n-Dizziness\n-Confusion\n-Hallucinations\n-Seizures\n-Hypotension\n-Bradycardia\n-Arrhythmias",
+        " Verapamil has symptoms:\n-Constipation\n-Nausea\n-Headache\n-Dizziness\n-Flushing\n-Hypotension\n-Bradycardia\n-Atrioventricular block\n-Heart failure",
+        " Amiodarone has symptoms:\n-Nausea\n-Vomiting\n-Constipation\n-Dizziness\n-Headache\n-Blurred vision\n-Dry mouth\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Cough\n-Chest pain\n-Fast or irregular heartbeat\n-Fainting"
+    ],
+    [
+        " White blood cell casts has symptoms:\n-Cloudy or dark urine\n-Frequent urination\n-Painful urination\n-Lower back pain\n-Fever\n-Chills\n-Nausea\n-Vomiting",
+        " Fatty casts has symptoms:\n-Cloudy urine\n-Foamy urine\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Muscle weakness\n-Confusion\n-Seizures",
+        " Muddy brown casts has symptoms:\n-Dark urine\n-Nausea\n-Vomiting\n-Abdominal pain\n-Diarrhea\n-Fever\n-Chills\n-Muscle aches\n-Joint pain\n-Headache\n-Confusion\n-Seizures",
+        " Hyaline casts has symptoms:\n-Proteinuria\n-Hypertension\n-Edema\n-Oliguria\n-Nausea\n-Vomiting\n-Fatigue\n-Weakness\n-Confusion\n-Seizures\n-Coma",
+        " Broad waxy casts has symptoms:\n-Hypertension\n-Edema\n-Proteinuria\n-Oliguria\n-Hematuria\n-Renal failure"
+    ],
+    [
+        " The term Induction of conformational change in antithrombin III does not have associated symptoms.",
+        " The term Inhibition of thrombocyte phosphodiesterase III does not have any associated symptoms.",
+        " Irreversible inhibition of GPIIb/IIIa complex has symptoms:\n-Bleeding\n-Thrombocytopenia\n-Leukopenia\n-Neutropenia\n-Anemia\n-Hepatotoxicity\n-Renal toxicity\n-Neurotoxicity",
+        " Direct inhibition of factor Xa has symptoms:\n-Bleeding\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Fatigue\n-Weakness\n-Muscle pain\n-Joint pain\n-Back pain\n-Chest pain\n-Shortness of breath\n-Confusion\n-Seizures\n-Coma",
+        " Direct inhibition of thrombin has symptoms:\n-Bleeding\n-Bruising\n-Nosebleeds\n-Menorrhagia\n-Hematuria\n-Gastrointestinal bleeding\n-Intracranial hemorrhage"
+    ],
+    [
+        " The term Percutaneous nephrostomy for acute ureterolithiasis 5 months ago does not have associated symptoms.",
+        " Lung abscess evacuation 3 months ago has symptoms:\n-persistent cough\n-shortness of breath\n-chest pain\n-fever\n-chills\n-night sweats\n-weight loss\n-fatigue\n-malaise",
+        " Catheterization of the urinary bladder has symptoms:\n-Cloudy or foul-smelling urine\n-Frequent urination\n-Pain or burning during urination\n-Difficulty starting or stopping urination\n-Leaking urine\n-Lower back pain\n-Fever and chills\n-Nausea and vomiting",
+        " Chronic intravenous drug usage has symptoms:\n-Collapsed veins\n-Skin infections\n-Abscesses\n-Endocarditis\n-Osteomyelitis\n-Sepsis\n-HIV\n-Hepatitis B\n-Hepatitis C\n-Tuberculosis\n-Malnutrition\n-Weight loss\n-Fatigue\n-Insomnia\n-Anxiety\n-Depression\n-Psychosis\n-Cognitive impairment\n-Memory loss\n-Attention deficit\n-Impulsivity\n-Aggression\n-Violence\n-Criminal behavior\n-Unemployment\n-Homelessness\n-Social isolation\n-Family problems\n-Child abuse\n-Neglect\n-",
+        " Adenoidectomy 6 months ago has no symptoms."
+    ],
+    [
+        " Beta-adrenergic blocker has symptoms:\n-Slow heart rate\n-Low blood pressure\n-Fatigue\n-Dizziness\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Bronchospasm\n-Hypoglycemia",
+        " Calcium channel blocker has symptoms:\n-Constipation\n-Dizziness\n-Headache\n-Nausea\n-Vomiting\n-Blurred vision\n-Drowsiness\n-Fatigue\n-Muscle weakness\n-Swelling in the hands, feet, or ankles\n-Skin rash\n-Itching\n-Hives\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat",
+        " Potassium channel blocker has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Lightheadedness\n-Muscle weakness\n-Fatigue\n-Confusion\n-Seizures\n-Coma",
+        " Sodium channel blocker with prolonged refractory period has symptoms:\n-Cardiac arrhythmias\n-Hypotension\n-Bradycardia\n-Dizziness\n-Lightheadedness\n-Syncope\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Blurred vision\n-Confusion\n-Seizures",
+        " Sodium channel blocker with shortened refractory period has symptoms:\n-Hypotension\n-Bradycardia\n-Arrhythmias\n-Dizziness\n-Lightheadedness\n-Syncope\n-Nausea\n-Vomiting\n-Confusion\n-Seizures"
+    ],
+    [
+        " The term \"Insert two large-bore intravenous catheters and start rapid fluid resuscitation\" is a medical procedure and does not have associated symptoms.",
+        " The term \"Initiate dopamine therapy and diuresis\" is a medical instruction rather than a medical term. It does not have associated symptoms.",
+        " The term \"Start intravenous fluids and epinephrine therapy\" is a medical treatment, not a medical term. It is used to treat anaphylaxis, a severe allergic reaction. Symptoms of anaphylaxis include:\n-Difficulty breathing\n-Swelling of the face, lips, tongue, or throat\n-Hives\n-Itching\n-Nausea\n-Vomiting\n-Dizziness\n-Lightheadedness\n-Loss of consciousness",
+        " The term \"Obtain blood cultures and start preliminary broad-spectrum antibiotics\" is a medical instruction rather than a medical term. It does not have associated symptoms.",
+        " The term \"Intubate the patient and perform an emergency cardiocentesis\" is a medical procedure and does not have associated symptoms."
+    ],
+    [
+        " Nitric oxide has no symptoms.",
+        " Human chorionic gonadotropin has symptoms:\n-Nausea\n-Vomiting\n-Fatigue\n-Breast tenderness\n-Frequent urination\n-Constipation\n-Bloating\n-Mood swings\n-Headaches\n-Backaches",
+        " Aldosterone has symptoms:\n-High blood pressure\n-Low potassium levels\n-Fluid retention\n-Swelling in the hands, feet, and ankles\n-Weight gain\n-Headaches\n-Muscle cramps\n-Nausea\n-Vomiting\n-Fatigue\n-Weakness",
+        " Angiotensin II has symptoms:\n-Increased blood pressure\n-Thirst\n-Frequent urination\n-Headache\n-Fatigue\n-Muscle cramps\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Blurred vision\n-Dizziness\n-Confusion\n-Seizures\n-Coma",
+        " Platelet-derived growth factor has no symptoms associated with it."
+    ],
+    [
+        " Aortic dissection has symptoms:\n-Sudden, sharp chest pain that may radiate to the back, neck, or abdomen\n-Shortness of breath\n-Difficulty swallowing\n-Hoarseness\n-Cough\n-Nausea and vomiting\n-Sweating\n-Lightheadedness or dizziness\n-Loss of consciousness",
+        " Pulmonary embolism has symptoms:\n- Shortness of breath\n- Chest pain\n- Coughing\n- Rapid heart rate\n- Lightheadedness or fainting\n- Sweating\n- Fever\n- Bluish skin or lips",
+        " Acute myocardial infarction has symptoms:\n-Chest pain or discomfort.\n-Shortness of breath.\n-Pain in the arms, neck, back, or jaw.\n-Nausea, vomiting, or light-headedness.\n-Sweating.\n-Rapid or irregular heartbeat.",
+        " Myocarditis has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Rapid or irregular heartbeat\n-Lightheadedness or dizziness\n-Swelling in the feet, ankles, and abdomen\n-Cough\n-Nausea and vomiting\n-Fever",
+        " Aortic regurgitation has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Nausea and vomiting"
+    ],
+    [
+        " Quinidine has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Confusion\n-Blurred vision\n-Ringing in the ears\n-Seizures\n-Cardiac arrhythmias",
+        " Lidocaine has symptoms:\n-Dizziness\n-Drowsiness\n-Nausea\n-Vomiting\n-Blurred vision\n-Confusion\n-Seizures\n-Coma",
+        " Dofetilide has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Lightheadedness\n-Blurred vision\n-Confusion\n-Seizures\n-QTc prolongation\n-Torsades de pointes",
+        " Procainamide has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Headache\n-Dizziness\n-Confusion\n-Hallucinations\n-Seizures\n-Hypotension\n-Bradycardia\n-Arrhythmias",
+        " Flecainide has symptoms:\n-Nausea\n-Vomiting\n-Dizziness\n-Headache\n-Blurred vision\n-Confusion\n-Seizures\n-Slow heart rate\n-Chest pain\n-Shortness of breath"
+    ],
+    [
+        " Neutrophilic infiltration has symptoms:\n-fever\n-chills\n-muscle aches\n-headache\n-fatigue\n-loss of appetite\n-weight loss\n-skin rash\n-joint pain\n-swelling\n-pain\n-redness\n-heat\n-pus",
+        " The term \"Normal myocardium\" does not have any associated symptoms, as it refers to the healthy and normal state of the heart muscle.",
+        " Coagulative necrosis has symptoms:\n- Loss of tissue function\n- Discoloration of the affected area\n- Swelling\n- Pain\n- Blistering\n- Skin breakdown\n- Fever\n- Chills\n- Nausea\n- Vomiting",
+        " Collagenous scar tissue has symptoms:\n-Redness\n-Swelling\n-Pain\n-Tenderness\n-Warmth\n-Itching\n-Scarring\n-Contractures\n-Adhesions",
+        " Granulation tissue with macrophages has symptoms:\n-Redness\n-Swelling\n-Warmth\n-Pain\n-Tenderness\n-Bleeding\n-Pus discharge\n-Itching\n-Scarring"
+    ],
+    [
+        " The term 30 mL/beat is not a medical term, so it does not have any associated symptoms.",
+        " The term 40 mL/beat is not a medical term, so it does not have any associated symptoms.",
+        " The term 50 mL/beat is not a medical term, so it does not have any associated symptoms.",
+        " The term 60 mL/beat is not a medical term, so it does not have any associated symptoms.",
+        " The term 70 mL/beat is not a medical term, so it does not have any associated symptoms."
+    ],
+    [
+        " Cholesterol crystal presence has symptoms:\n-joint pain\n-swelling\n-redness\n-warmth\n-decreased range of motion\n-skin discoloration\n-skin rash\n-itching\n-burning sensation\n-numbness\n-tingling\n-weakness\n-fatigue\n-fever\n-chills\n-weight loss\n-appetite loss\n-nausea\n-vomiting\n-diarrhea\n-constipation\n-abdominal pain\n-back pain\n-headache\n-confusion\n-seizures\n-coma",
+        " The term Rate of plaque formation does not have associated symptoms.",
+        " The term Calcium content does not have associated symptoms.",
+        " Presence of cytokines has symptoms:\n-Fever\n-Fatigue\n-Muscle aches\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Skin rash\n-Swollen lymph nodes\n-Confusion\n-Seizures\n-Coma",
+        " The term \"Amount of foam cells\" is not a medical term, so I cannot provide a list of symptoms associated with it."
+    ],
+    [
+        " Hypocalcemia has symptoms:\n-Muscle cramps\n-Tingling sensation in the fingers, toes, and around the mouth\n-Muscle spasms\n-Brittle nails\n-Dry skin\n-Thinning hair\n-Fatigue\n-Depression\n-Anxiety\n-Confusion\n-Memory loss\n-Seizures\n-Cardiac arrhythmias",
+        " Hypoglycemia has symptoms:\n-Sweating\n-Shakiness\n-Hunger\n-Irritability\n-Confusion\n-Dizziness\n-Blurred vision\n-Headache\n-Nausea\n-Vomiting\n-Seizures\n-Loss of consciousness",
+        " Hyperlipidemia has symptoms:\n- Chest pain\n- Shortness of breath\n-Blurred vision\n-Nausea\n-Vomiting\n-Abdominal pain\n-Fatigue\n-Confusion\n-Seizures\n-Coma",
+        " Hyperuricemia has symptoms:\n- Joint pain\n-Swelling\n-Redness\n-Tenderness\n-Difficulty moving the affected joint\n-Tophi (deposits of uric acid crystals under the skin)\n-Kidney stones\n-Urinary tract infections\n-Nausea\n-Vomiting\n-Diarrhea\n-Fatigue\n-Weakness\n-Headache\n-Confusion\n-Seizures",
+        " Hypokalemia has symptoms:\n-Muscle weakness\n-Fatigue\n-Paralysis\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Increased thirst\n-Frequent urination\n-Confusion\n-Seizures\n-Cardiac arrhythmias"
+    ],
+    [
+        " Propranolol, because it is a non-selective \u00df-blocker, has symptoms:\n-Bradycardia\n-Hypotension\n-Bronchospasm\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Lightheadedness\n-Confusion\n-Anxiety\n-Depression\n-Insomnia\n-Nightmares\n-Sexual dysfunction",
+        " Metoprolol, because it is a selective \u00df1 > \u00df2 blocker, has symptoms:\n-Bradycardia\n-Hypotension\n-Fatigue\n-Dizziness\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Headache\n-Dizziness\n-Confusion\n-Hallucinations\n-Seizures\n-Coma",
+        " Atenolol, because it is a selective \u00df2 > \u00df1 blocker, has symptoms:\n-Bradycardia\n-Hypotension\n-Bronchospasm\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Lightheadedness\n-Confusion\n-Memory loss\n-Depression\n-Anxiety\n-Insomnia\n-Nightmares\n-Sexual dysfunction",
+        " Labetalol, because it is a selective \u00df1 > \u00df2 blocker, has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Fatigue\n-Constipation\n-Diarrhea\n-Dry mouth\n-Blurred vision\n-Difficulty breathing\n-Chest pain\n-Slow heart rate\n-Low blood pressure",
+        " Nadolol, because it is a selective \u00df1 > \u00df2 blocker, has symptoms:\n-Bradycardia\n-Hypotension\n-Fatigue\n-Dizziness\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Headache\n-Dizziness\n-Confusion\n-Depression\n-Anxiety\n-Insomnia\n-Nightmares\n-Dry mouth\n-Blurred vision\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Shortness"
+    ],
+    [
+        " Digoxin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Confusion\n-Dizziness\n-Blurred vision\n-Yellowing of the skin or eyes\n-Dark urine\n-Pale stools\n-Rapid heart rate\n-Slow heart rate\n-Irregular heart rate\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Weakness\n-Muscle cramps\n-Seizures",
+        " Quinidine has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Confusion\n-Blurred vision\n-Ringing in the ears\n-Seizures\n-Cardiac arrhythmias",
+        " Lidocaine has symptoms:\n-Dizziness\n-Drowsiness\n-Nausea\n-Vomiting\n-Blurred vision\n-Confusion\n-Seizures\n-Coma",
+        " Amiodarone has symptoms:\n-Nausea\n-Vomiting\n-Constipation\n-Dizziness\n-Headache\n-Blurred vision\n-Dry mouth\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat\n-Fainting",
+        " Verapamil has symptoms:\n-Constipation\n-Nausea\n-Headache\n-Dizziness\n-Flushing\n-Hypotension\n-Bradycardia\n-Atrioventricular block\n-Heart failure"
+    ],
+    [
+        " Hepatic overproduction of VLDL has symptoms:\n-Hypertriglyceridemia\n-Low HDL cholesterol\n-Increased risk of cardiovascular disease\n-Fatty liver\n-Hepatomegaly\n-Splenomegaly\n-Acanthosis nigricans\n-Pruritus\n-Xanthelasma\n-Lipodystrophy",
+        " Defective apolipoprotein B-100 has symptoms:\n-Hypobetalipoproteinemia\n-Acanthocytosis\n-Retinitis pigmentosa\n-Peripheral neuropathy\n-Steatorrhea\n-Muscle weakness\n-Fatigue\n-Nausea\n-Vomiting\n-Abdominal pain\n-Constipation\n-Diarrhea\n-Weight loss\n-Growth retardation\n-Intellectual disability\n-Seizures\n-Stroke\n-Heart attack",
+        " Decreased apolipoprotein B-48 has symptoms:\n-Increased risk of cardiovascular disease\n-High levels of triglycerides\n-Low levels of HDL cholesterol\n-Small, dense LDL cholesterol particles\n-Insulin resistance\n-Type 2 diabetes\n-Obesity\n-Metabolic syndrome",
+        " Decreased apolipoprotein C-II has symptoms:\n-Hypertriglyceridemia\n-Increased risk of coronary artery disease\n-Increased risk of pancreatitis\n-Hepatic steatosis\n-Insulin resistance\n-Type 2 diabetes",
+        " Defective apolipoprotein E has symptoms:\n-Increased risk of Alzheimer's disease\n-Increased risk of cardiovascular disease\n-High cholesterol\n-High triglycerides\n-Fatty deposits around the eyes (xanthelasma)\n-Fatty deposits on the skin (xanthomas)\n-Enlarged liver (hepatomegaly)\n-Splenomegaly\n-Peripheral neuropathy\n-Dementia\n-Memory loss\n-Confusion\n-Difficulty speaking and understanding speech\n-Personality changes\n-Behavioral problems\n-Loss of coordination\n-Muscle weakness\n-Seizures\n-Coma"
+    ],
+    [
+        " Lidocaine has symptoms:\n-Dizziness\n-Drowsiness\n-Nausea\n-Vomiting\n-Blurred vision\n-Confusion\n-Seizures\n-Coma\n-Cardiac arrhythmias\n-Hypotension\n-Respiratory depression",
+        " Sotalol has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Lightheadedness\n-Bradycardia\n-Hypotension\n-QTc prolongation\n-Torsades de pointes",
+        " Propranolol has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Lightheadedness\n-Fatigue\n-Weakness\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Slow heart rate\n-Low blood pressure",
+        " Verapamil has symptoms:\n-Constipation\n-Nausea\n-Headache\n-Dizziness\n-Flushing\n-Hypotension\n-Bradycardia\n-Atrioventricular block\n-Heart failure",
+        " Diltiazem has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Lightheadedness\n-Flushing\n-Constipation\n-Diarrhea\n-Abdominal pain\n-Muscle cramps\n-Joint pain\n-Back pain\n-Neck pain\n-Rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat\n-Fainting"
+    ],
+    [
+        " Chagas heart disease has symptoms:\n- Shortness of breath\n- Chest pain\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Fainting\n- Heart palpitations\n- Swelling in the legs, ankles, and feet\n- Abdominal pain\n- Nausea\n- Vomiting\n- Diarrhea\n- Weight loss\n- Fever\n- Headache\n- Muscle aches\n- Joint pain\n- Skin rash",
+        " Viral myocarditis has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Palpitations\n-Dizziness or fainting\n-Swollen feet or ankles\n-Nausea or vomiting\n-Abdominal pain\n-Confusion\n-Seizures",
+        " Cardiac sarcoidosis has symptoms:\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Lightheadedness or dizziness\n-Palpitations\n-Swelling in the feet, ankles, and abdomen\n-Cough\n-Weight loss\n-Fever\n-Night sweats",
+        " Alcohol use disorder has symptoms:\n-Increased tolerance to alcohol\n-Withdrawal symptoms when alcohol use is stopped or reduced\n-Uncontrollable drinking\n-Continued drinking despite negative consequences\n-Impaired control over drinking\n-Obsession with alcohol\n-Neglect of responsibilities\n-Risky behaviors\n-Physical and mental health problems",
+        " Thiamine deficiency has symptoms:\n-Weight loss\n-Muscle weakness\n-Loss of appetite\n-Nausea\n-Vomiting\n-Diarrhea\n-Confusion\n-Memory loss\n-Irritability\n-Depression\n-Beriberi (a condition that can cause heart failure, nerve damage, and swelling in the legs)"
+    ],
+    [
+        " Inhibition of myocardial Na+/K+ ATPase has symptoms:\n-Cardiac arrhythmias\n-Heart failure\n-Cardiogenic shock\n-Sudden cardiac death",
+        " Inhibition of AV node L-type Ca2+ channels has symptoms:\n-Bradycardia\n-Syncope\n-Dizziness\n-Lightheadedness\n-Fatigue\n-Shortness of breath\n-Chest pain\n-Palpitations",
+        " Increase in vagal tone has symptoms:\n-Bradycardia\n-Hypotension\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Increased salivation\n-Bronchoconstriction\n-Miosis\n-Diaphoresis",
+        " Activation of Na+/Ca2+ exchanger has symptoms:\n-Increased intracellular calcium concentration\n-Increased sodium concentration\n-Decreased potassium concentration\n-Cardiac arrhythmias\n-Muscle weakness\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Confusion\n-Seizures\n-Coma",
+        " Decrease in intracellular cAMP has symptoms:\n-Hyperthyroidism\n-Hyperparathyroidism\n-Pheochromocytoma\n-Acromegaly\n-Cushing's syndrome\n-Diabetes mellitus\n-Hyperaldosteronism\n-Hypercalcemia\n-Hypokalemia\n-Hyperglycemia\n-Glycosuria\n-Polyuria\n-Polydipsia\n-Weight loss\n-Muscle weakness\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Blurred vision\n-Palpitations\n-Tachycardia\n-"
+    ],
+    [
+        " Atherosclerosis has symptoms:\n-Chest pain\n-Shortness of breath\n-Pain in the arms, neck, back, abdomen, or legs\n-Weakness or numbness in the arms or legs\n-Confusion or memory loss\n-Slurred speech\n-Vision problems\n-Dizziness or fainting\n-Nausea or vomiting",
+        " Diabetes has symptoms:\n-Increased thirst\n-Frequent urination\n-Increased hunger\n-Unexplained weight loss\n-Fatigue\n-Blurred vision\n-Slow-healing sores\n-Frequent infections\n-Tingling or numbness in the hands or feet",
+        " Hypertension has symptoms:\n-Headaches\n-Blurred vision\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Nausea\n-Vomiting\n-Confusion\n-Seizures",
+        " Long bone fracture has symptoms:\n-Pain\n-Swelling\n-Bruising\n-Deformity\n-Tenderness\n-Crepitus\n-Loss of function",
+        " Malignancy has symptoms:\n-A lump in the breast or other part of the body\n-Changes in the size, shape, or appearance of a mole\n-A sore that does not heal\n-Bleeding or discharge from the nipple\n-Weight loss\n-Fatigue\n-Fever\n-Night sweats\n-Pain\n-Difficulty breathing\n-Hoarseness\n-Persistent cough\n-Blood in the stool\n-Abdominal pain\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Unexplained weight loss\n-Swollen lymph nodes"
+    ],
+    [
+        " Ehlers-Danlos syndrome has symptoms:\n-Joint hypermobility\n-Skin hyperextensibility\n-Easy bruising\n-Chronic pain\n-Fatigue\n-Gastrointestinal problems\n-Cardiovascular problems\n-Neurological problems\n-Psychological problems",
+        " Turner syndrome has symptoms:\n-Short stature\n-Webbed neck\n-Low hairline\n-Broad chest with widely spaced nipples\n-Delayed puberty\n-Infertility\n-Kidney problems\n-Heart defects\n-Hearing loss\n-Vision problems\n-Dental problems\n-Learning disabilities\n-Social and emotional problems",
+        " DiGeorge syndrome has symptoms:\n-Cleft lip and/or palate\n-Difficulty feeding\n-Recurrent infections\n-Developmental delays\n-Learning disabilities\n-Heart defects\n-Kidney problems\n-Hearing loss\n-Vision problems\n-Immune system problems",
+        " Friedrich\u2019s ataxia has symptoms:\n-Difficulty walking\n-Slurred speech\n-Muscle weakness\n-Loss of coordination\n-Tremors\n-Nystagmus (rapid, involuntary eye movements)\n-Scoliosis (curvature of the spine)\n-Pes cavus (high-arched feet)\n-Cardiomyopathy (heart muscle disease)\n-Diabetes mellitus\n-Hearing loss\n-Vision problems\n-Cognitive impairment\n-Psychiatric problems",
+        " Marfan syndrome has symptoms:\n- Tall stature\n- Long, slender fingers and toes (arachnodactyly)\n- Joint laxity\n- Scoliosis\n- Pectus excavatum or pectus carinatum\n- Myopia\n- Ectopia lentis\n- Dilation of the aorta\n- Mitral valve prolapse\n- Aortic regurgitation\n- Heart failure\n- Stroke\n- Sudden death"
+    ],
+    [
+        " Progressive cardiac ischemia caused by a plaque event has symptoms:\n-Chest pain or discomfort\n-Shortness of breath\n-Fatigue\n-Nausea or vomiting\n-Sweating\n-Lightheadedness or dizziness\n-Pain in the neck, jaw, back, or arms",
+        " Impaired gaseous exchange caused by pulmonary edema has symptoms:\n-Dyspnea\n-Tachypnea\n-Orthopnea\n-Wheezing\n-Cough\n-Fatigue\n-Anxiety\n-Confusion\n-Cyanosis",
+        " Lobar consolidation due to Staphylococcus aureus has symptoms:\n-Cough\n-Chest pain\n-Shortness of breath\n-Fever\n-Chills\n-Fatigue\n-Loss of appetite\n-Nausea\n-Vomiting",
+        " Decreased cardiac contractility due to cardiac myocyte injury has symptoms:\n-Dyspnea\n-Fatigue\n-Edema\n-Orthopnea\n-Palpitations\n-Syncope\n-Chest pain\n-Nausea\n-Vomiting\n-Confusion\n-Diaphoresis",
+        " Diffuse alveolar damage and hyaline membrane formation has symptoms:\n-Dyspnea\n-Tachypnea\n-Hypoxia\n-Crackles\n-Wheezing\n-Cough\n-Fever\n-Fatigue\n-Weight loss"
+    ],
+    [
+        " The context provided does not mention any symptoms, so I cannot extract the requested data.",
+        " The term: Digoxin does not benefit patients with left-sided heart failure in the absence of atrial fibrillation.\nThis is not a medical term, it is a statement about the use of digoxin in patients with left-sided heart failure.",
+        " The context provided does not mention any medical term or symptoms, so I cannot extract the requested data.",
+        " The context provided does not mention any medical term, so I cannot extract the requested data.",
+        " The context provided does not mention any medical term, so I cannot extract the requested data."
+    ],
+    [
+        " The term: Obtain authorization from the patient to release information does not have symptoms.",
+        " The term \"Inform the wife about her husband's condition\" is not a medical term, so it does not have any associated symptoms.",
+        " The term \"Consult the hospital ethics committee\" does not have any associated symptoms. It is a recommendation to seek guidance from the hospital's ethics committee, typically in cases involving complex ethical dilemmas or decision-making processes.",
+        " The term \"Request the patient's durable power of attorney document\" is not a medical term and does not have any associated symptoms.",
+        " The term \"Ask the wife for a marriage certificate\" is not a medical term, so it does not have any associated symptoms."
+    ],
+    [
+        " Volume depletion has symptoms:\n-Thirst\n-Dry mouth\n-Lethargy\n-Confusion\n-Dizziness\n-Lightheadedness\n-Rapid heart rate\n-Low blood pressure\n-Oliguria (decreased urine output)\n-Anuria (no urine output)",
+        " Urinary tract infection has symptoms:\n-Frequent urination\n-Painful urination\n-Cloudy or foul-smelling urine\n-Pelvic pain\n-Fever\n-Chills\n-Nausea\n-Vomiting",
+        " Bladder outlet obstruction has symptoms:\n-Difficulty urinating\n-Weak urine stream\n-Intermittent urine stream\n-Incomplete bladder emptying\n-Frequent urination\n-Urgency\n-Nocturia\n-Overflow incontinence\n-Urinary retention",
+        " Glomerulonephritis has symptoms:\n-Hematuria (blood in the urine)\n-Proteinuria (protein in the urine)\n-Edema (swelling)\n-Hypertension (high blood pressure)\n-Oliguria (decreased urine output)\n-Fatigue\n-Nausea\n-Vomiting\n-Loss of appetite\n-Itchy skin\n-Muscle cramps\n-Joint pain\n-Fever\n-Chills",
+        " Antibiotic use has symptoms:\n-Diarrhea\n-Nausea\n-Vomiting\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Cough\n-Fever\n-Chills\n-Muscle aches\n-Joint pain\n-Headache\n-Fatigue\n-Loss of appetite"
+    ],
+    [
+        " Vitamin K has symptoms:\n-Easy bruising or bleeding\n-Nosebleeds\n-Heavy menstrual bleeding\n-Blood in the urine or stool\n-Bleeding from the gums\n-Slow-healing wounds\n-Easy bruising\n-Anemia",
+        " Cryoprecipitate has symptoms:\n-Hypofibrinogenemia\n-Bleeding\n-Thrombocytopenia\n-Anemia\n-Hypotension\n-Tachycardia\n-Dyspnea\n-Chest pain\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Headache\n-Confusion\n-Seizures\n-Coma",
+        " Protamine has no symptoms associated with it.",
+        " Platelet transfusion has no symptoms.",
+        " Fresh frozen plasma does not have symptoms, it is a blood product used in transfusions."
+    ],
+    [
+        " Neutrophilic infiltration with central necrosis has symptoms:\n-Fever\n-Chills\n-Muscle aches\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Skin rash\n-Joint pain\n-Confusion\n-Seizures\n-Coma",
+        " Reactive gliosis with vascular proliferation has symptoms:\n-Increased intracranial pressure\n-Headaches\n-Nausea\n-Vomiting\n-Seizures\n-Focal neurological deficits\n-Cognitive impairment\n-Memory loss\n-Personality changes\n-Behavioral problems",
+        " Glial scarring with fibrous tissue hypertrophy has symptoms:\n-Impaired tissue repair\n-Increased inflammation\n-Reduced neuronal survival\n-Axonal damage\n-Cognitive deficits\n-Motor deficits\n-Sensory deficits\n-Seizures\n-Epilepsy",
+        " Eosinophilic neuronal cytoplasm with pyknotic nuclei has symptoms:\n-Seizures\n-Developmental delay\n-Intellectual disability\n-Speech delay\n-Motor problems\n-Vision problems\n-Hearing problems\n-Feeding problems\n-Sleep problems\n-Behavioral problems",
+        " Normal brain parenchyma has no symptoms."
+    ],
+    [
+        " Amlodipine-Atenolol has symptoms:\n-Dizziness\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Gas\n-Bloating\n-Muscle cramps\n-Swelling in the hands or feet\n-Weight gain\n-Fatigue\n-Drowsiness\n-Insomnia\n-Anxiety\n-Depression\n-Blurred vision\n-Dry mouth\n-Cough\n-Sore throat\n-Runny nose\n-Sneezing\n-Itching\n-Rash",
+        " Amlodipine-Valsartan has symptoms:\n-dizziness\n-headache\n-fatigue\n-nausea\n-edema\n-constipation\n-diarrhea\n-myalgia\n-back pain\n-pharyngitis\n-sinusitis\n-bronchitis\n-cough\n-rhinorrhea\n-rash\n-pruritus",
+        " Atenolol-Hydrochlorothiazide has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Fatigue\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat\n-Confusion\n-Seizures",
+        " Isosorbide dinitrate-Hydralazine has symptoms:\n-Headache\n-Nausea\n-Vomiting\n-Dizziness\n-Lightheadedness\n-Flushing\n-Rapid heart rate\n-Palpitations\n-Chest pain\n-Shortness of breath\n-Weakness\n-Fatigue\n-Drowsiness\n-Confusion\n-Blurred vision\n-Dry mouth\n-Constipation\n-Diarrhea\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing or swallowing",
+        " Metoprolol-Atorvastatin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Lightheadedness\n-Muscle pain\n-Back pain\n-Joint pain\n-Fatigue\n-Weakness\n-Anxiety\n-Insomnia\n-Blurred vision\n-Dry mouth\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Rapid heartbeat\n-Slow heartbeat\n-High blood pressure\n-Low"
+    ],
+    [
+        " Accessory atrioventricular conduction pathway has symptoms:\n-Palpitations\n-Dizziness\n-Lightheadedness\n-Syncope\n-Chest pain\n-Shortness of breath",
+        " Myofibrillar disarray of cardiac septum has symptoms:\n-Arrhythmias\n-Chest pain\n-Dyspnea\n-Syncope\n-Palpitations\n-Sudden cardiac death",
+        " Bicuspid aortic valve has symptoms:\n- Chest pain\n- Shortness of breath\n- Lightheadedness or dizziness\n- Fainting\n- Rapid heart rate\n- Palpitations\n- Chest tightness\n- Cough\n- Wheezing",
+        " Defect in interatrial septum has symptoms:\n-Shortness of breath\n-Fatigue\n-Swelling in the feet, ankles, and abdomen\n-Rapid heart rate\n-Chest pain\n-Lightheadedness or dizziness\n-Fainting spells",
+        " Mutation of myocardial potassium channels has symptoms:\n-Prolonged QT interval\n-Ventricular arrhythmias\n-Syncope\n-Sudden cardiac death"
+    ],
+    [
+        " Impaired bilirubin conjugation has symptoms:\n-Jaundice\n-Dark urine\n-Light-colored stools\n-Itching\n-Nausea\n-Vomiting\n-Abdominal pain\n-Fatigue\n-Weight loss",
+        " Mechanical erythrocyte damage has symptoms:\n-Anemia\n-Splenomegaly\n-Jaundice\n-Hemoglobinuria\n-Hemosiderinuria\n-Reticulocytosis\n-Increased erythrocyte osmotic fragility\n-Decreased erythrocyte survival",
+        " Drug-induced toxicity has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Headache\n-Dizziness\n-Confusion\n-Seizures\n-Coma\n-Death",
+        " Absent hepatic glucuronosyltransferase has symptoms:\n-Jaundice\n-Dark urine\n-Light-colored stools\n-Itching\n-Nausea\n-Vomiting\n-Abdominal pain\n-Fatigue\n-Weight loss",
+        " Impaired bilirubin excretion has symptoms:\n-Jaundice\n-Dark urine\n-Light-colored stools\n-Itching\n-Nausea\n-Vomiting\n-Abdominal pain\n-Fatigue\n-Weight loss"
+    ],
+    [
+        " Inspiratory hypotension has symptoms:\n-Lightheadedness\n-Dizziness\n-Blurred vision\n-Nausea\n-Vomiting\n-Syncope",
+        " Carotidynia has symptoms:\n-Carotidynia is characterized by pain in the neck and face, usually on one side.\n-The pain may be described as a dull ache, throbbing, or burning sensation.\n-It may be accompanied by tenderness over the carotid artery, swelling in the neck, and difficulty swallowing.\n-In some cases, carotidynia may also cause dizziness, lightheadedness, and fainting.",
+        " Distant heart sounds has symptoms:\n-Faint or muffled heart sounds\n-Difficulty hearing the heart sounds\n-A rapid heart rate\n-An irregular heart rate\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Fainting",
+        " Increased capillary pulsations of the fingertips has symptoms:\n- bounding pulse\n- rapid pulse\n- weak pulse\n- irregular pulse\n- capillary refill time less than 2 seconds\n- widened pulse pressure\n- visible pulsations in the nail beds\n- throbbing sensation in the fingertips\n- blanching of the fingertips\n- cyanosis of the fingertips",
+        " A carotid biphasic pulse has symptoms:\n-A palpable pulse in the carotid artery that is stronger during systole and weaker during diastole.\n-A bruit, or abnormal sound, heard over the carotid artery.\n-Dizziness or lightheadedness.\n-Confusion or memory loss.\n-Vision problems.\n-Weakness or paralysis on one side of the body."
+    ],
+    [
+        " Hyponatremia has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Confusion\n-Seizures\n-Coma",
+        " Elevated AST and ALT has symptoms:\n-Nausea\n-Vomiting\n-Abdominal pain\n-Fatigue\n-Weakness\n-Loss of appetite\n-Dark urine\n-Light-colored stools\n-Jaundice (yellowing of the skin and eyes)",
+        " Hypokalemia has symptoms:\n-Muscle weakness\n-Fatigue\n-Paralysis\n-Nausea\n-Vomiting\n-Constipation\n-Diarrhea\n-Increased thirst\n-Frequent urination\n-Confusion\n-Seizures\n-Cardiac arrhythmias",
+        " Increased GFR with normal creatinine does not have specific symptoms.",
+        " Hyperkalemia has symptoms:\n-Muscle weakness\n-Paralysis\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Confusion\n-Anxiety\n-Cardiac arrhythmias"
+    ],
+    [
+        " Iron deficiency anemia has symptoms:\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Cold hands and feet\n-Brittle nails\n-Spoon-shaped nails\n-Cravings for non-food items, such as ice or dirt\n-Restless legs syndrome",
+        " Hemolytic anemia has symptoms:\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Lightheadedness\n-Rapid heart rate\n-Dark urine\n-Jaundice\n-Splenomegaly\n-Hepatomegaly",
+        " Anemia of chronic disease has symptoms:\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Muscle cramps\n-Weight loss\n-Loss of appetite\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Menstrual irregularities\n-Infertility\n-Impotence",
+        " Pernicious anemia has symptoms:\n-Weakness\n-Fatigue\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Weight loss\n-Muscle weakness\n-Numbness and tingling in the hands and feet\n-Vision problems\n-Mental confusion\n-Depression",
+        " Thalassemia has symptoms:\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Bone deformities\n-Enlarged spleen\n-Jaundice\n-Dark urine\n-Slow growth\n-Delayed puberty"
+    ],
+    [
+        " I, II, III has no symptoms associated with it.",
+        " I, IV, VI is not a medical term.",
+        " I, IV, V has no symptoms associated with it.",
+        " I, II, IV, V is not a medical term, so I cannot provide a list of symptoms associated with it.",
+        " I, II, IV has no symptoms associated with it."
+    ],
+    [
+        " Furosemide has symptoms:\n-Increased urination\n-Thirst\n-Dry mouth\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Muscle cramps\n-Weakness\n-Fatigue\n-Confusion\n-Seizures",
+        " Orlistat has symptoms:\n- Abdominal pain\n- Diarrhea\n- Flatulence\n- Headache\n- Nausea\n- Oily spotting\n- Rectal pain\n- Toothache\n- Vomiting",
+        " Niacin has symptoms:\n-Skin problems, such as dermatitis and pellagra\n-Diarrhea\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Weakness\n-Fatigue\n-Weight loss\n-Confusion\n-Memory loss\n-Depression",
+        " Ezetimibe has symptoms:\n-Diarrhea\n-Nausea\n-Abdominal pain\n-Headache\n-Myalgia\n-Asthenia\n-Fatigue\n-Flatulence\n-Constipation\n-Dyspepsia\n-Back pain\n-Arthralgia\n-Sinusitis\n-Nasopharyngitis\n-Upper respiratory tract infection\n-Cough\n-Dizziness\n-Insomnia\n-Anxiety\n-Depression\n-Pruritus\n-Rash\n-Urticaria\n-Alopecia\n-Dry skin\n-Increased sweating\n-Visual disturbance\n-Tinnitus\n-Vertigo\n",
+        " Losartan has symptoms:\n- Dizziness\n- Lightheadedness\n- Headache\n- Fatigue\n- Nausea\n- Diarrhea\n- Muscle cramps\n- Back pain\n- Rash\n- Itching\n- Hives\n- Swelling of the face, lips, tongue, or throat\n- Difficulty breathing or swallowing"
+    ],
+    [
+        " Coronary vasoconstriction has symptoms:\n- Chest pain or angina\n- Shortness of breath\n- Lightheadedness or dizziness\n- Nausea or vomiting\n- Sweating\n- Fatigue\n- Rapid heart rate\n- Palpitations",
+        " Diastolic aortic pressure does not have symptoms. It is a measurement of the pressure in the aorta, the main artery that carries blood from the heart to the body, during diastole, the phase of the cardiac cycle when the heart relaxes and fills with blood.",
+        " The term \"Duration of diastole\" is not a medical condition and therefore does not have associated symptoms.",
+        " Force of myocardial contraction does not have symptoms.",
+        " The term Ventricular blood volume does not have associated symptoms."
+    ],
+    [
+        " Acetazolamide has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Drowsiness\n-Fatigue\n-Blurred vision\n-Ringing in the ears\n-Skin rash\n-Itching\n-Hives\n-Difficulty breathing\n-Swelling of the face, lips, tongue, or throat",
+        " Amiloride has symptoms:\n-Hyperkalemia\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Fatigue\n-Muscle cramps\n-Skin rash",
+        " Furosemide has symptoms:\n-Increased urination\n-Thirst\n-Dry mouth\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Muscle cramps\n-Weakness\n-Fatigue\n-Confusion\n-Seizures",
+        " Hydrochlorothiazide has symptoms:\n-Electrolyte imbalance\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Fatigue\n-Muscle cramps\n-Skin rash\n-Dry mouth\n-Increased thirst\n-Constipation\n-Diarrhea\n-Blurred vision\n-Increased sensitivity to sunlight\n-Weight gain\n-Swelling in the hands or feet",
+        " Spironolactone has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Fatigue\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat\n-Confusion\n-Seizures"
+    ],
+    [
+        " QT interval prolongation has symptoms:\n-Palpitations\n-Lightheadedness\n-Dizziness\n-Syncope (fainting)\n-Seizures",
+        " Hyperkalemia has symptoms:\n-Muscle weakness\n-Paralysis\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Confusion\n-Anxiety\n-Cardiac arrhythmias",
+        " Hypotension has symptoms:\n-Dizziness\n-Lightheadedness\n-Blurred vision\n-Nausea\n-Vomiting\n-Fatigue\n-Confusion\n-Seizures\n-Loss of consciousness",
+        " Hyperglycemia has symptoms:\n-Increased thirst\n-Frequent urination\n-Increased hunger\n-Weight loss\n-Fatigue\n-Blurred vision\n-Slow-healing sores\n-Frequent infections",
+        " Bronchospasm has symptoms:\n- Shortness of breath\n- Wheezing\n- Chest tightness\n- Coughing\n- Rapid heart rate\n- Sweating\n- Anxiety"
+    ],
+    [
+        " Binds to intracellular receptors in the collecting duct has symptoms:\n-Increased urine output\n-Thirst\n-Dry mouth\n-Headache\n-Fatigue\n-Muscle cramps\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Weight loss\n-Increased heart rate\n-Low blood pressure\n-Seizures\n-Coma",
+        " Increases conversion of angiotensin has symptoms:\n-High blood pressure\n-Increased thirst\n-Frequent urination\n-Headaches\n-Fatigue\n-Nausea\n-Vomiting\n-Confusion\n-Seizures\n-Coma",
+        " Increases water reabsorption in the kidney has symptoms:\n-Decreased urine output\n-Dark urine\n-Swelling in the hands, feet, and ankles\n-High blood pressure\n-Headache\n-Nausea\n-Vomiting\n-Confusion\n-Seizures",
+        " Inhibits release of renin has symptoms:\n-Hypotension\n-Hyperkalemia\n-Hypoglycemia\n-Hyperuricemia\n-Impotence\n-Gynecomastia",
+        " Stimulates parasympathetic nerves has symptoms:\n- Increased salivation\n- Increased mucus production\n- Decreased heart rate\n- Decreased blood pressure\n- Increased peristalsis\n- Increased urination\n- Increased sweating\n- Increased sexual arousal"
+    ],
+    [
+        " Lactate dehydrogenase (LDH) has symptoms:\n-Muscle weakness\n-Fatigue\n-Nausea\n-Vomiting\n-Abdominal pain\n-Weight loss\n-Fever\n-Shortness of breath\n-Confusion\n-Seizures\n-Coma",
+        " Creatine kinase (CK)-MB has symptoms:\n-Chest pain\n-Shortness of breath\n-Nausea\n-Vomiting\n-Sweating\n-Lightheadedness\n-Dizziness\n-Fainting",
+        " Troponin T has no symptoms. It is a cardiac marker used to detect heart damage.",
+        " Troponin I has symptoms:\n-Chest pain\n-Shortness of breath\n-Nausea\n-Vomiting\n-Sweating\n-Dizziness\n-Lightheadedness\n-Fainting",
+        " Creatine kinase \u2013 MM has symptoms:\n-Muscle pain\n-Muscle weakness\n-Muscle stiffness\n-Muscle cramps\n-Muscle fatigue\n-Muscle damage\n-Muscle atrophy\n-Muscle tenderness\n-Muscle soreness\n-Muscle swelling\n-Muscle inflammation\n-Muscle spasms\n-Muscle twitching\n-Muscle contractures\n-Muscle tightness\n-Muscle knots\n-Muscle hardening\n-Muscle fibrosis\n-Muscle degeneration\n-Muscle necrosis\n-Muscle paralysis\n-Muscle dysfunction\n-Muscle failure\n-Muscle wasting\n-Muscle loss\n-Muscle weakness\n-Muscle fatigue\n-Muscle pain\n-Muscle stiffness\n-"
+    ],
+    [
+        " Pulmonary endothelium does not have symptoms, it is a type of tissue that lines the blood vessels in the lungs.",
+        " Liver has symptoms:\n-Nausea\n-Vomiting\n-Abdominal pain\n-Swelling in the abdomen\n-Dark urine\n-Light-colored stools\n-Itchy skin\n-Yellow skin and eyes\n-Fatigue\n-Loss of appetite\n-Weight loss",
+        " Atria has no symptoms.",
+        " Zona glomerulosa has no symptoms.",
+        " Juxtaglomerular cells do not have symptoms, they are cells located in the kidney."
+    ],
+    [
+        " The term Superior mesenteric artery does not have symptoms associated with it.",
+        " The term Inferior mesenteric artery does not have symptoms associated with it.",
+        " The term \"Right gastroepiploic artery\" is an anatomical structure and does not have associated symptoms.",
+        " The term Splenic artery does not have symptoms associated with it.",
+        " The term Left gastric artery does not have symptoms associated with it."
+    ],
+    [
+        " Thoracic aortic aneurysm has symptoms:\n-Chest pain\n-Back pain\n-Shortness of breath\n-Cough\n-Hoarseness\n-Difficulty swallowing\n-Swelling in the face, neck, or arms\n-Rapid heart rate\n-Lightheadedness\n-Fainting",
+        " Achalasia has symptoms:\n-Difficulty swallowing (dysphagia)\n-Regurgitation of undigested food\n-Chest pain\n-Weight loss\n-Nausea\n-Vomiting",
+        " Left atrium enlargement has symptoms:\n-Shortness of breath\n-Fatigue\n-Chest pain\n-Lightheadedness\n-Dizziness\n-Palpitations\n-Cough\n-Wheezing\n-Swelling in the feet, ankles, and abdomen",
+        " Diffuse esophageal spasm has symptoms:\n-Chest pain\n-Difficulty swallowing\n-Regurgitation\n-Nausea\n-Vomiting\n-Heartburn",
+        " Benign stricture has symptoms:\n-Nausea\n-Vomiting\n-Abdominal pain\n-Constipation\n-Diarrhea\n-Weight loss\n-Fatigue\n-Anemia\n-Iron deficiency"
+    ],
+    [
+        " Low unconjugated bilirubin has symptoms:\n-Pale skin\n-Light-colored stools\n-Dark urine\n-Itching\n-Fatigue\n-Nausea\n-Vomiting\n-Abdominal pain",
+        " Elevated lactate dehydrogenase has symptoms:\n-Nausea\n-Vomiting\n-Fatigue\n-Weakness\n-Muscle pain\n-Shortness of breath\n-Confusion\n-Seizures\n-Coma",
+        " Low ferritin has symptoms:\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Brittle nails\n-Spoon-shaped nails\n-Restless legs syndrome\n-Pica (cravings for non-food items)",
+        " Low platelets has symptoms:\n-Easy or excessive bruising\n-Prolonged bleeding from cuts\n-Nosebleeds\n-Bleeding gums\n-Heavy menstrual bleeding\n-Blood in the urine or stool\n-Petechiae (small, red or purple spots on the skin)\n-Ecchymoses (large, flat, purplish areas of skin discoloration)\n-Fatigue\n-Weakness\n-Dizziness\n-Confusion\n-Headache\n-Nausea\n-Vomiting\n-Abdominal pain\n-Fever\n-Chills",
+        " Elevated haptoglobin has symptoms:\n-Hemolytic anemia\n-Liver disease\n-Splenomegaly\n-Hodgkin's lymphoma\n-Multiple myeloma\n-Rheumatoid arthritis\n-Systemic lupus erythematosus\n-Vasculitis\n-Pregnancy\n-Oral contraceptive use\n-Estrogen therapy\n-Androgen therapy\n-Glucocorticoid therapy\n-Thyroid hormone therapy\n-Growth hormone therapy\n-Insulin therapy\n-Alcohol abuse\n-Smoking\n-Obesity\n-Diabetes\n-Hypertension\n-Hypercholesterolemia\n-Hypothyroidism\n-Cushing"
+    ],
+    [
+        " Hydralazine has symptoms:\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Dizziness\n-Lightheadedness\n-Blurred vision\n-Muscle cramps\n-Weakness\n-Fatigue\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Chest pain\n-Rapid heartbeat\n-Confusion\n-Seizures",
+        " Furosemide has symptoms:\n-Increased urination\n-Thirst\n-Dry mouth\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Muscle cramps\n-Weakness\n-Fatigue\n-Confusion\n-Seizures",
+        " Dobutamine has symptoms:\n-Increased heart rate\n-Increased blood pressure\n-Headache\n-Nausea\n-Vomiting\n-Dizziness\n-Lightheadedness\n-Shortness of breath\n-Chest pain\n-Muscle cramps\n-Anxiety\n-Insomnia",
+        " Digoxin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Confusion\n-Dizziness\n-Blurred vision\n-Yellowing of the skin or eyes\n-Dark urine\n-Pale stools\n-Rapid heart rate\n-Slow heart rate\n-Irregular heart rate\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Weakness\n-Muscle cramps\n-Seizures",
+        " Nitroprusside has symptoms:\n-Hypotension\n-Headache\n-Nausea\n-Vomiting\n-Muscle twitching\n-Restlessness\n-Anxiety\n-Confusion\n-Seizures\n-Coma"
+    ],
+    [
+        " The term \"Enhancement with hand grip maneuver\" does not have any associated symptoms.",
+        " Enhancement with expiration has symptoms:\n-Increased intraocular pressure\n-Blurred vision\n-Halos around lights\n-Eye pain\n-Headache\n-Nausea\n-Vomiting",
+        " Presence of audible S3 has symptoms:\n-Dyspnea\n-Orthopnea\n-Fatigue\n-Edema\n-Hepatomegaly\n-Jugular venous distension\n-Ascites\n-Rales\n-Wheezes",
+        " Enhancement with inspiration has symptoms:\n-Increased lung volumes\n-Increased tidal volume\n-Increased respiratory rate\n-Increased minute ventilation\n-Increased oxygen saturation\n-Decreased dyspnea\n-Improved exercise tolerance",
+        " Presence of audible S4 has symptoms:\n-Congestive heart failure\n-Coronary artery disease\n-Hypertension\n-Diabetes\n-Obesity\n-Smoking\n-Alcohol abuse\n-Thyroid disease\n-Anemia\n-Sepsis"
+    ],
+    [
+        " Adenosine infusion has symptoms:\n-Hypotension\n-Headache\n-Nausea\n-Vomiting\n-Dyspnea\n-Chest pain\n-Arrhythmias\n-Bronchospasm\n-Seizures",
+        " Drinking coffee has no symptoms.",
+        " Dipping his face in warm water does not have any symptoms associated with it.",
+        " Synchronized cardioversion has symptoms:\n-Chest pain\n-Dizziness\n-Lightheadedness\n-Nausea\n-Vomiting\n-Shortness of breath\n-Confusion\n-Seizures",
+        " Valsalva maneuver has symptoms:\n-Increased intracranial pressure\n-Bradycardia\n-Valsalva retinopathy\n-Valsalva oculopathy\n-Valsalva otorrhea\n-Valsalva otitis media\n-Valsalva otitis externa\n-Valsalva laryngitis\n-Valsalva pharyngitis\n-Valsalva esophagitis\n-Valsalva gastritis\n-Valsalva duodenitis\n-Valsalva jejunitis\n-Valsalva ileitis\n-Valsalva colitis\n-Valsalva proctitis\n-Valsalva hemorrhoids\n-Valsalva anal fissure\n-Valsalva urinary incontinence"
+    ],
+    [
+        " Decreases sodium reabsorption at the collecting tubules has symptoms:\n-Diuresis\n-Hyperkalemia\n-Hypotension\n-Metabolic alkalosis",
+        " Increases potassium excretion at the collecting ducts has symptoms:\n-Hypokalemia\n-Muscle weakness\n-Paralysis\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Confusion\n-Seizures\n-Coma",
+        " Constricts afferent renal arteriole has symptoms:\n-Decreased glomerular filtration rate (GFR)\n-Oliguria\n-Edema\n-Hypertension\n-Proteinuria\n-Hematuria\n-Casts in the urine\n-Increased serum creatinine\n-Increased blood urea nitrogen (BUN)",
+        " Decreases reabsorption of bicarbonate in the proximal convoluted tubules has symptoms:\n-Proximal renal tubular acidosis\n-Hyperchloremic metabolic acidosis\n-Hypokalemia\n-Nephrocalcinosis\n-Renal failure",
+        " Increases free water reabsorption from the distal tubules has symptoms:\n-Polyuria\n-Nocturia\n-Dehydration\n-Weight loss\n-Fatigue\n-Confusion\n-Seizures\n-Coma"
+    ],
+    [
+        " Diltiazem has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Lightheadedness\n-Flushing\n-Constipation\n-Diarrhea\n-Abdominal pain\n-Muscle cramps\n-Weakness\n-Fatigue\n-Drowsiness\n-Insomnia\n-Anxiety\n-Depression\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Chest pain\n-Rapid heartbeat\n-Slow heartbeat\n-Fainting",
+        " Lidocaine has symptoms:\n-Dizziness\n-Drowsiness\n-Nausea\n-Vomiting\n-Blurred vision\n-Confusion\n-Seizures\n-Coma\n-Cardiac arrhythmias\n-Hypotension\n-Respiratory depression",
+        " Flecainide has symptoms:\n-Nausea\n-Vomiting\n-Dizziness\n-Headache\n-Blurred vision\n-Confusion\n-Seizures\n-Slow heart rate\n-Chest pain\n-Shortness of breath",
+        " Dofetilide has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Lightheadedness\n-Blurred vision\n-Confusion\n-Seizures\n-QTc prolongation\n-Torsades de pointes",
+        " Carvedilol has symptoms:\n-Dizziness\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Fatigue\n-Drowsiness\n-Blurred vision\n-Dry mouth\n-Skin rash\n-Itching\n-Swelling of the hands or feet\n-Weight gain\n-Shortness of breath\n-Chest pain\n-Palpitations\n-Syncope"
+    ],
+    [
+        " Slowed atrioventricular conduction velocities has symptoms:\n-Chest pain\n-Shortness of breath\n-Lightheadedness\n-Dizziness\n-Fainting",
+        " Increased myocardial oxygen consumption has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Lightheadedness\n- Dizziness\n- Nausea\n- Vomiting\n- Sweating\n- Palpitations\n- Anxiety",
+        " Decreased heart rate has symptoms:\n-Fatigue\n-Dizziness\n-Lightheadedness\n-Confusion\n-Shortness of breath\n-Chest pain\n-Syncope (fainting)",
+        " Increased systemic vascular resistance due to systemic vasoconstriction has symptoms:\n-Hypertension\n-Headache\n-Dizziness\n-Blurred vision\n-Nausea\n-Vomiting\n-Fatigue\n-Weakness\n-Muscle cramps\n-Numbness or tingling in the hands or feet\n-Shortness of breath\n-Chest pain\n-Palpitations\n-Sweating\n-Anxiety\n-Confusion\n-Seizures\n-Coma",
+        " Decreased cardiac contractility has symptoms:\n-Dyspnea\n-Fatigue\n-Edema\n-Orthopnea\n-Palpitations\n-Syncope"
+    ],
+    [
+        " Meandering mesenteric artery has symptoms:\n-Abdominal pain\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Weight loss\n-Fatigue\n-Anemia\n-Iron deficiency",
+        " The term Left anterior descending does not have symptoms associated with it.",
+        " Right coronary artery has symptoms:\n-Chest pain or angina\n-Shortness of breath\n-Nausea or vomiting\n-Lightheadedness or dizziness\n-Pain in the neck, jaw, back, or arm\n-Sweating\n-Fatigue",
+        " The term Celiac artery and superior mesenteric artery does not have symptoms associated with it.",
+        " The term Left colic artery does not have symptoms associated with it."
+    ],
+    [
+        " Furosemide has symptoms:\n-Increased urination\n-Thirst\n-Dry mouth\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Muscle cramps\n-Weakness\n-Fatigue\n-Confusion\n-Seizures",
+        " Metoprolol has symptoms:\n-Slow heart rate\n-Dizziness\n-Lightheadedness\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Drowsiness\n-Insomnia\n-Nightmares\n-Dry mouth\n-Eye irritation\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fainting",
+        " Amiodarone has symptoms:\n-Nausea\n-Vomiting\n-Constipation\n-Dizziness\n-Headache\n-Blurred vision\n-Dry mouth\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Fast or irregular heartbeat\n-Fainting",
+        " Digoxin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Confusion\n-Dizziness\n-Blurred vision\n-Yellowing of the skin or eyes\n-Dark urine\n-Pale stools\n-Rapid heart rate\n-Slow heart rate\n-Irregular heart rate\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Weakness\n-Muscle cramps\n-Seizures",
+        " Lisinopril has symptoms:\n-Dizziness\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Fatigue\n-Dry cough"
+    ],
+    [
+        " Allergic interstitial nephritis has symptoms:\n-skin rash\n-joint pain\n-fever\n-chills\n-nausea\n-vomiting\n-diarrhea\n-blood in the urine\n-swelling in the face, hands, and feet\n-shortness of breath",
+        " Cholesterol embolization has symptoms:\n-Skin discoloration\n-Pain\n-Nerve damage\n-Kidney failure\n-Stroke\n-Death",
+        " Contrast-induced nephropathy has symptoms:\n-Low urine output\n-Swelling in the hands, feet, and ankles\n-Shortness of breath\n-Nausea and vomiting\n-Confusion\n-Seizures\n-Coma",
+        " Renal papillary necrosis has symptoms:\n-Back pain\n-Cloudy or bloody urine\n-Fever\n-Frequent urination\n-Nausea and vomiting\n-Painful urination\n-Urinary urgency",
+        " Eosinophilic granulomatosis with polyangiitis has symptoms:\n- Asthma\n- Joint pain\n- Muscle pain\n- Skin rash\n- Fatigue\n- Weight loss\n- Fever\n- Cough\n- Shortness of breath\n- Chest pain\n- Abdominal pain\n- Nausea\n- Vomiting\n- Diarrhea\n- Kidney problems\n- Nerve problems"
+    ],
+    [
+        " Verapamil has symptoms:\n-Constipation\n-Nausea\n-Headache\n-Dizziness\n-Flushing\n-Hypotension\n-Bradycardia\n-Atrioventricular block\n-Heart failure",
+        " Carvedilol has symptoms:\n-Dizziness\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Fatigue\n-Drowsiness\n-Blurred vision\n-Dry mouth\n-Skin rash\n-Itching\n-Swelling of the hands or feet\n-Weight gain\n-Shortness of breath\n-Chest pain\n-Palpitations\n-Syncope",
+        " Flecainide has symptoms:\n-Nausea\n-Vomiting\n-Dizziness\n-Headache\n-Blurred vision\n-Confusion\n-Seizures\n-Slow heart rate\n-Chest pain\n-Shortness of breath",
+        " Sotalol has symptoms:\n-Bradycardia\n-Hypotension\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Confusion\n-Seizures",
+        " Quinidine has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Dizziness\n-Confusion\n-Blurred vision\n-Ringing in the ears\n-Seizures\n-Cardiac arrhythmias"
+    ],
+    [
+        " 20 has no symptoms associated with it.",
+        " 10 has no symptoms associated with it.",
+        " The term 0.25 is not a medical term, so it does not have any associated symptoms.",
+        " The term 50 is not a medical term, so it does not have any associated symptoms.",
+        " The term 0.05 is not a medical term, so I cannot provide a list of symptoms associated with it."
+    ],
+    [
+        " Early disseminated Lyme disease has symptoms:\n-Fever\n-Chills\n-Headache\n-Fatigue\n-Muscle aches\n-Joint pain\n-Skin rash (erythema migrans)\n-Swollen lymph nodes",
+        " Embolic stroke at the posterior inferior cerebellar artery (PICA) has symptoms:\n-Sudden onset of dizziness or vertigo\n-Difficulty walking or maintaining balance\n-Nausea and vomiting\n-Headache\n-Blurred or double vision\n-Drooping eyelid on the affected side\n-Slurred speech\n-Difficulty swallowing\n-Weakness or numbness on one side of the body",
+        " Hypoperfusion of the anterior spinal artery (ASA) has symptoms:\n-sudden onset of flaccid paralysis and loss of sensation below the level of the lesion\n-loss of motor function in the arms and legs\n-loss of sensation in the arms and legs\n-difficulty breathing\n-loss of bladder and bowel control\n-priapism\n-paraplegia\n-quadriplegia",
+        " Labyrinthitis has symptoms:\n-Dizziness\n-Vertigo\n-Hearing loss\n-Tinnitus\n-Nausea\n-Vomiting\n-Headache\n-Nystagmus\n-Ataxia\n-Diaphoresis",
+        " Thrombotic stroke at the anterior inferior cerebellar artery (AICA) has symptoms:\n-Sudden onset of dizziness or vertigo\n-Difficulty walking or maintaining balance\n-Nausea and vomiting\n-Headache\n-Blurred vision\n-Drooping eyelid\n-Slurred speech\n-Weakness or numbness on one side of the body\n-Confusion or disorientation\n-Seizures\n-Loss of consciousness"
+    ],
+    [
+        " Bite cells and Heinz bodies has symptoms:\n-Anemia\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Nausea\n-Vomiting\n-Abdominal pain\n-Dark urine\n-Jaundice",
+        " Sickle cells and target cells has symptoms:\n-Anemia\n-Fatigue\n-Shortness of breath\n-Dizziness\n-Headaches\n-Blurred vision\n-Painful episodes (called crises)\n-Swelling of the hands and feet\n-Frequent infections\n-Delayed growth\n-Skin ulcers\n-Priapism (prolonged, painful erection of the penis)",
+        " RBC fragments and schistocytes has symptoms:\n-Anemia\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Lightheadedness\n-Confusion\n-Seizures\n-Coma",
+        " Round macrocytes and target cells has symptoms:\n-Anemia\n-Weakness\n-Fatigue\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Muscle cramps\n-Tingling or numbness in the hands or feet\n-Blurred vision\n-Weight loss",
+        " Macrocytes and hypersegmented neutrophils has symptoms:\n-Anemia\n-Weakness\n-Fatigue\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Muscle cramps\n-Numbness or tingling in the hands or feet\n-Weight loss\n-Splenomegaly\n-Hepatomegaly\n-Jaundice"
+    ],
+    [
+        " Renal dialysis has symptoms:\n-Nausea\n-Vomiting\n-Muscle cramps\n-Headaches\n-Fatigue\n-Weakness\n-Dizziness\n-Itching\n-Swelling\n-High blood pressure\n-Low blood pressure\n-Rapid heart rate\n-Slow heart rate\n-Chest pain\n-Shortness of breath\n-Confusion\n-Seizures\n-Coma",
+        " Plasma exchange has symptoms:\n-Nausea\n-Vomiting\n-Muscle cramps\n-Headache\n-Dizziness\n-Lightheadedness\n-Blurred vision\n-Seizures\n-Stroke\n-Death",
+        " Intravenous immunoglobulin has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Muscle pain\n-Fever\n-Chills\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Rapid heart rate\n-Low blood pressure",
+        " Rehydration has no symptoms.",
+        " Platelet transfusion has no symptoms."
+    ],
+    [
+        " Angioedema has symptoms:\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Hoarseness\n-Nausea\n-Vomiting\n-Abdominal pain\n-Diarrhea\n-Hives\n-Itching",
+        " Bronchoconstriction has symptoms:\n- Shortness of breath\n- Wheezing\n- Chest tightness\n- Coughing\n- Difficulty talking\n- Rapid heart rate\n- Sweating\n- Anxiety",
+        " Changes in color vision has symptoms:\n-Difficulty distinguishing between certain colors, such as blue and yellow or red and green\n-Fading or loss of color intensity\n-Seeing colors that are not there (chromatopsia)\n-Blurred vision\n-Light sensitivity\n-Eye pain\n-Headaches",
+        " Decreased PR interval has symptoms:\n-Palpitations\n-Dizziness\n-Lightheadedness\n-Syncope\n-Chest pain\n-Shortness of breath",
+        " Cough has symptoms:\n- Chest pain\n- Shortness of breath\n- Wheezing\n- Hoarseness\n- Sore throat\n- Difficulty swallowing\n- Nausea\n- Vomiting\n- Diarrhea\n- Fever\n- Chills\n- Fatigue\n- Headache\n- Muscle aches\n- Joint pain"
+    ],
+    [
+        " Digoxin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Headache\n-Confusion\n-Dizziness\n-Blurred vision\n-Yellowing of the skin or eyes\n-Dark urine\n-Pale stools\n-Rapid heart rate\n-Slow heart rate\n-Irregular heart rate\n-Chest pain\n-Shortness of breath\n-Fatigue\n-Weakness\n-Muscle cramps\n-Seizures",
+        " Furosemide has symptoms:\n-Increased urination\n-Thirst\n-Dry mouth\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Muscle cramps\n-Weakness\n-Fatigue\n-Confusion\n-Seizures",
+        " Lisinopril has symptoms:\n-Dizziness\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Fatigue\n-Dry cough",
+        " Propranolol has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Lightheadedness\n-Fatigue\n-Weakness\n-Muscle cramps\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Slow heart rate\n-Low blood pressure",
+        " Verapamil has symptoms:\n-Constipation\n-Nausea\n-Headache\n-Dizziness\n-Flushing\n-Hypotension\n-Bradycardia\n-Atrioventricular block\n-Heart failure"
+    ],
+    [
+        " Aspirin has symptoms:\n-Nausea\n-Vomiting\n-Heartburn\n-Stomach pain\n-Diarrhea\n-Constipation\n-Headache\n-Dizziness\n-Tinnitus\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest pain\n-Rapid heart rate\n-Confusion\n-Seizures\n-Coma",
+        " Colchicine has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Muscle weakness\n-Numbness or tingling in the hands or feet\n-Kidney damage\n-Liver damage\n-Bone marrow suppression\n-Hair loss\n-Skin rash\n-Allergic reactions",
+        " Clarithromycin has symptoms:\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Headache\n-Skin rash\n-Itching\n-Hives\n-Swelling of the face, lips, tongue, or throat\n-Difficulty breathing\n-Wheezing\n-Chest tightness\n-Rapid heart rate\n-Dizziness\n-Fainting",
+        " Furosemide has symptoms:\n-Increased urination\n-Thirst\n-Dry mouth\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Muscle cramps\n-Weakness\n-Fatigue\n-Confusion\n-Seizures",
+        " Prednisolone has symptoms:\n-Weight gain\n-Mood changes\n-Increased appetite\n-Difficulty sleeping\n-Acne\n-Thinning skin\n-Easy bruising\n-Muscle weakness\n-Bone loss\n-High blood pressure\n-Increased risk of infection\n-Cushing's syndrome\n-Adrenal insufficiency"
+    ],
+    [
+        " Cellular debris and lymphocytes has symptoms:\n-Swelling\n-Redness\n-Warmth\n-Pain\n-Pus\n-Fever\n-Chills\n-Fatigue\n-Nausea\n-Vomiting\n-Diarrhea",
+        " Cellular debris and macrophages has symptoms:\n-inflammation\n-swelling\n-pain\n-redness\n-heat\n-loss of function",
+        " Cystic cavitation has symptoms:\n- Chest pain\n- Shortness of breath\n- Cough\n- Wheezing\n- Fatigue\n- Weight loss\n- Fever\n- Night sweats",
+        " Fat saponification does not have symptoms associated with it.",
+        " Uniform binding of acidophilic dyes has no symptoms, it is a histological finding."
+    ],
+    [
+        " The term QRS complex amplitude does not have associated symptoms.",
+        " The term: Length of QT interval\nhas no symptoms.",
+        " Length of PR interval has no symptoms.",
+        " The term: Length of QRS complex\n\nThe length of the QRS complex is a measure of the time it takes for the electrical impulse to travel from the atria to the ventricles and back again. A prolonged QRS complex can be a sign of a number of underlying conditions, including:\n\n-Bundle branch block\n-Myocardial infarction\n-Hypertrophy\n-Dilated cardiomyopathy\n-Arrhythmias\n-Electrolyte imbalances\n-Drug toxicity",
+        " The term: Amplitude and direction of the T wave\nhas no symptoms associated with it."
+    ],
+    [
+        " Rupture of the anterior papillary muscle on the right ventricle has symptoms:\n-Sudden chest pain\n-Shortness of breath\n-Rapid heart rate\n-Low blood pressure\n-Dizziness or fainting\n-Nausea or vomiting\n-Sweating\n-Anxiety",
+        " Rupture of the posterior papillary muscle on the right ventricle has symptoms:\n-Acute right-sided heart failure\n-Jugular venous distension\n-Peripheral edema\n-Ascites\n-Hepatomegaly\n-Systolic murmur\n-Tricuspid regurgitation\n-Pulmonary edema\n-Cardiogenic shock",
+        " Rupture of the septal papillary muscle on the right ventricle has symptoms:\n-Acute right-sided heart failure\n-Cardiogenic shock\n-Pulmonary edema\n-Tricuspid regurgitation\n-Mitral regurgitation\n-Aortic regurgitation\n-Ventricular septal defect\n-Atrioventricular block\n-Sudden cardiac death",
+        " Rupture of the anterolateral papillary muscle of the left ventricle has symptoms:\n-Dyspnea\n-Chest pain\n-Palpitations\n-Syncope\n-Cardiogenic shock",
+        " Rupture of the posteromedial papillary muscle of the left ventricle has symptoms:\n-Acute chest pain\n-Dyspnea\n-Hypotension\n-Cardiogenic shock\n-Mitral regurgitation\n-Papillary muscle dysfunction\n-Left ventricular failure\n-Cardiomyopathy\n-Sudden cardiac death"
+    ],
+    [
+        " Cyanide toxicity has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Confusion\n-Seizures\n-Coma\n-Death",
+        " Carbon monoxide poisoning has symptoms:\n- Headache\n- Nausea\n- Vomiting\n- Dizziness\n- Confusion\n- Blurred vision\n- Seizures\n- Coma\n- Death",
+        " Sulfmethemoglobinemia has symptoms:\n-Bluish skin\n-Chocolate-colored blood\n-Dizziness\n-Fatigue\n-Headache\n-Nausea\n-Rapid heart rate\n-Shortness of breath\n-Vomiting",
+        " Methemoglobinemia has symptoms:\n-Bluish skin (cyanosis)\n-Chocolate-colored blood\n-Confusion\n-Dizziness\n-Fatigue\n-Headache\n-Rapid heart rate\n-Seizures\n-Shortness of breath\n-Vomiting",
+        " Anemia has symptoms:\n-Fatigue\n-Weakness\n-Pale skin\n-Shortness of breath\n-Dizziness\n-Headaches\n-Cold hands and feet\n-Brittle nails\n-Spoon-shaped nails\n-Rapid heart rate\n-Chest pain\n-Confusion\n-Irritability\n-Depression"
+    ],
+    [
+        " Anterior cerebral artery and middle cerebral artery watershed area has symptoms:\n-Aphasia\n-Apraxia\n-Confusion\n-Memory loss\n-Personality changes\n-Seizures\n-Weakness or paralysis on one side of the body",
+        " The term \"Inferior division of the middle cerebral artery\" is an anatomical term and does not have associated symptoms.",
+        " Middle cerebral artery and posterior cerebral artery watershed area has symptoms:\n-Aphasia\n-Hemiparesis\n-Hemianopia\n-Visual field defects\n-Memory loss\n-Confusion\n-Disorientation\n-Seizures\n-Coma",
+        " Proximal middle cerebral artery has no symptoms associated with it.",
+        " The term: Superior division of the middle cerebral artery\ndoes not have symptoms associated with it."
+    ],
+    [
+        " Begin hydrochlorothiazide therapy has no symptoms associated with it.",
+        " Begin vancomycin therapy is not a medical term associated with symptoms. It is a medical instruction to start treatment with the antibiotic vancomycin.",
+        " Discontinue aspirin therapy has symptoms:\n-Increased risk of heart attack or stroke\n-Increased risk of blood clots\n-Increased risk of bleeding\n-Stomach upset\n-Nausea\n-Vomiting\n-Headache\n-Dizziness\n-Confusion\n-Seizures",
+        " Discontinue metformin therapy has symptoms:\n-Lactic acidosis\n-Nausea\n-Vomiting\n-Abdominal pain\n-Diarrhea\n-Weakness\n-Fatigue\n-Confusion\n-Dizziness\n-Seizures\n-Coma",
+        " Begin nitroprusside therapy has no symptoms associated with it."
+    ],
+    [
+        " Increased left ventricular compliance has symptoms:\n-Dyspnea\n-Orthopnea\n-Paroxysmal nocturnal dyspnea\n-Fatigue\n-Edema\n-Hepatomegaly\n-Ascites\n-Jugular venous distension\n-Rales\n-Wheezes",
+        " Decreased left ventricular compliance has symptoms:\n-Dyspnea\n-Orthopnea\n-Paroxysmal nocturnal dyspnea\n-Fatigue\n-Edema\n-Hepatomegaly\n-Ascites\n-Jugular venous distension\n-Rales\n-Wheezes",
+        " Increased left ventricular filling volume has symptoms:\n-Dyspnea\n-Orthopnea\n-Paroxysmal nocturnal dyspnea\n-Fatigue\n-Edema\n-Hepatomegaly\n-Ascites\n-Jugular venous distension\n-Rales\n-Wheezes",
+        " Decreased left ventricular filling volume has symptoms:\n-Dyspnea\n-Orthopnea\n-Paroxysmal nocturnal dyspnea\n-Fatigue\n-Edema\n-Hepatomegaly\n-Ascites\n-Jugular venous distension\n-Rales\n-Wheezes",
+        " Increased pulmonary compliance has symptoms:\n-Dyspnea\n-Tachypnea\n-Wheezing\n-Cough\n-Chest pain\n-Fatigue\n-Weakness\n-Weight loss\n-Anorexia\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Abdominal pain\n-Bloating\n-Gas\n-Heartburn\n-Indigestion\n-Nausea\n-Vomiting\n-Diarrhea\n-Constipation\n-Abdominal pain\n-Bloating\n-Gas\n-Heartburn\n-Indigestion"
+    ],
+    [
+        " Stroke occurring as result of a mural thrombus has symptoms:\n- Sudden weakness or numbness on one side of the body\n- Sudden trouble speaking or understanding speech\n- Sudden trouble seeing in one or both eyes\n- Sudden dizziness or loss of balance\n- Sudden severe headache with no known cause",
+        " Stroke occurring because of a paradoxical embolus has symptoms:\n-Sudden weakness or numbness on one side of the body\n-Sudden trouble speaking or understanding speech\n-Sudden vision problems in one or both eyes\n-Sudden dizziness or loss of balance\n-Sudden severe headache with no known cause",
+        " Stroke occurring because of a deep venous thrombosis has symptoms:\n-Sudden weakness or numbness on one side of the body\n-Sudden trouble speaking or understanding speech\n-Sudden vision problems in one or both eyes\n-Sudden dizziness or loss of balance\n-Sudden severe headache with no known cause",
+        " Rupture of an aneurysm leading to hemorrhagic stroke has symptoms:\n-Sudden severe headache\n-Nausea and vomiting\n-Seizures\n-Confusion\n-Loss of consciousness\n-Weakness or paralysis on one side of the body\n-Difficulty speaking or understanding speech\n-Vision problems\n-Dizziness or loss of balance",
+        " Ventricular free wall rupture leading global hypotension has symptoms:\n-Chest pain\n-Shortness of breath\n-Rapid heart rate\n-Low blood pressure\n-Nausea\n-Vomiting\n-Confusion\n-Loss of consciousness"
+    ],
+    [
+        " Hereditary defect of renal amino acid transporter has symptoms:\n-Renal Fanconi syndrome\n-Proximal renal tubular acidosis\n-Hypophosphatemic rickets\n-Osteomalacia\n-Nephrocalcinosis\n-Renal failure",
+        " Cystathionine synthase deficiency has symptoms:\n-Mental retardation\n-Seizures\n-Dislocated lenses\n-Marfanoid habitus\n-Ectopia lentis\n-Hypotonia\n-Mental retardation\n-Seizures\n-Marfanoid habitus\n-Ectopia lentis\n-Hypotonia",
+        " Decreased in phenylalanine hydroxylase has symptoms:\n-Intellectual disability\n-Seizures\n-Skin rashes\n-Eczema\n-Hyperactivity\n-Impulsivity\n-Aggressive behavior\n-Difficulty with social interactions\n-Fair skin and hair\n-Blue eyes",
+        " Deficiency of homogentisic acid oxidase has symptoms:\n-Dark urine\n-Joint pain\n-Kidney stones\n-Arthritis\n-Ear problems\n-Eye problems\n-Neurological problems",
+        " Inability to degrade branched chain amino acids has symptoms:\n-Vomiting\n-Lethargy\n-Seizures\n-Developmental delay\n-Intellectual disability\n-Autistic features\n-Hypotonia\n-Hepatomegaly\n-Hyperammonemia\n-Increased plasma levels of branched-chain amino acids"
+    ],
+    [
+        " Viridans group streptococci has symptoms:\n- sore throat\n- fever\n- headache\n- muscle aches\n- fatigue\n- swollen lymph nodes\n- rash\n- joint pain\n- abdominal pain\n- nausea\n- vomiting",
+        " Kingella kingae has symptoms:\n- Fever\n- Skin and soft tissue infections\n- Bone and joint infections\n- Bacteremia\n- Meningitis\n- Septic arthritis\n- Osteomyelitis\n- Pneumonia\n- Endocarditis",
+        " Streptococcus gallolyticus has symptoms:\n-Sore throat\n-Fever\n-Swollen lymph nodes\n-Muscle aches\n-Headache\n-Nausea\n-Vomiting\n-Diarrhea\n-Skin rash",
+        " Noninfectious immune complex mediated has symptoms:\n-Vasculitis\n-Glomerulonephritis\n-Serum sickness\n-Arthritis\n-Sjogren's syndrome\n-Systemic lupus erythematosus\n-Rheumatoid arthritis\n-Polymyositis\n-Dermatomyositis",
+        " Staphylococcus aureus has symptoms:\n-Skin infections, such as boils, abscesses, and cellulitis\n-Respiratory infections, such as pneumonia and sinusitis\n-Bloodstream infections, such as sepsis and endocarditis\n-Bone and joint infections, such as osteomyelitis and septic arthritis\n-Toxic shock syndrome\n-Food poisoning"
+    ],
+    [
+        " The term \"Consult the hospital ethics committee\" does not have any associated symptoms. It is a recommendation to seek guidance from the hospital's ethics committee, typically in cases involving complex ethical dilemmas or decision-making processes.",
+        " The term \"Do not intubate the patient as his prognosis is poor even with intubation\" is not a medical term associated with specific symptoms. It is a medical decision made by healthcare professionals based on the patient's overall condition and prognosis.",
+        " The term: Do not intubate the patient given his living will\ndoes not have symptoms associated with it.",
+        " Intubate the patient - a patient's next of kin take precedence over a living will does not have symptoms.",
+        " Intubate the patient - the family is representing the patient's most recent and accurate wishes has no symptoms associated with it."
+    ],
+    [
+        " Migraine has symptoms:\n-Severe throbbing pain or a pulsing sensation, usually on one side of the head\n-Nausea and vomiting\n-Sensitivity to light, sound, and smells\n-Blurred vision\n-Tingling or numbness in the face or limbs\n-Difficulty speaking or understanding speech\n-Confusion\n-Dizziness or vertigo\n-Fatigue\n-Diarrhea or constipation\n-Increased urination\n-Pale skin\n-Cold sweats\n-Fever\n-Chills",
+        " Brain Tumor has symptoms:\n-Headaches\n-Nausea\n-Vomiting\n-Seizures\n-Vision problems\n-Hearing problems\n-Balance problems\n-Speech problems\n-Memory problems\n-Personality changes",
+        " Temporal Arteritis has symptoms:\n-Headache, usually on one side of the head\n-Tenderness or pain in the scalp, especially around the temples\n-Jaw pain\n-Vision problems, such as blurred vision, double vision, or loss of vision\n-Fatigue\n-Weight loss\n-Fever\n-Muscle aches\n-Joint pain",
+        " Subarachnoid Hemorrhage has symptoms:\n-Sudden, severe headache (often described as the worst headache of your life)\n-Nausea and vomiting\n-Stiff neck\n-Sensitivity to light\n-Seizures\n-Confusion\n-Drowsiness\n-Loss of consciousness",
+        " Carotid Dissection has symptoms:\n-Sudden onset of pain in the neck, face, or behind the eye\n-Tenderness over the carotid artery\n-Swelling in the neck\n-Difficulty swallowing\n-Hoarseness\n-Dizziness\n-Weakness or paralysis on one side of the body\n-Vision problems\n-Headache\n-Nausea and vomiting"
+    ],
+    [
+        " The term \"Area 1\" is not a medical term, so I cannot provide a list of symptoms associated with it.",
+        " The term \"Area 2\" is not a medical term, so I cannot provide a list of symptoms associated with it.",
+        " The term \"Area 3\" is not a medical term, so I cannot provide a list of symptoms associated with it.",
+        " The term \"Area 4\" is not a medical term, so I cannot provide a list of symptoms associated with it.",
+        " The term \"Area 5\" is not a medical term, it refers to a highly classified United States Air Force facility located in the Nevada desert. It is not associated with any medical symptoms."
+    ],
+    [
+        " Complication from femoral artery access has symptoms:\n-bleeding\n-bruising\n-swelling\n-pain\n-numbness\n-tingling\n-weakness\n-paralysis\n-infection\n-blood clot",
+        " Fat embolism has symptoms:\n- confusion\n- shortness of breath\n- rapid heart rate\n- low blood pressure\n- petechiae (small red or purple spots on the skin)\n- fat droplets in the urine\n- neurologic symptoms, such as seizures, coma, and paralysis",
+        " Patent ductus arteriosus has symptoms:\n- A heart murmur\n- Rapid breathing\n- Difficulty feeding\n- Sweating\n- Poor weight gain\n- Cyanosis (a bluish tint to the skin)",
+        " Adrenal hemorrhage has symptoms:\n-Abdominal pain\n-Nausea\n-Vomiting\n-Diarrhea\n-Fever\n-Chills\n-Sweating\n-Rapid heart rate\n-Low blood pressure\n-Shock",
+        " Ventricular septal defect has symptoms:\n- Chest pain\n- Shortness of breath\n- Fatigue\n- Palpitations\n- Cyanosis\n- Heart murmur\n- Clubbing of the fingers\n- Pulmonary hypertension\n- Right ventricular hypertrophy\n- Eisenmenger syndrome"
+    ],
+    [
+        " Hyperkalemia has symptoms:\n-Muscle weakness\n-Paralysis\n-Nausea\n-Vomiting\n-Diarrhea\n-Abdominal pain\n-Confusion\n-Anxiety\n-Cardiac arrhythmias",
+        " Gynecomastia has symptoms:\n-Breast enlargement in males\n-Tenderness or pain in the breasts\n-Swelling or lumpiness in the breasts\n-Nipple discharge\n-Itchy or irritated nipples\n-Breast asymmetry\n-Feeling of fullness or heaviness in the breasts\n-Difficulty sleeping due to breast discomfort\n-Low self-esteem or body image issues\n-Anxiety or depression",
+        " Azotemia has symptoms:\n-Nausea\n-Vomiting\n-Fatigue\n-Weakness\n-Loss of appetite\n-Confusion\n-Seizures\n-Coma",
+        " Alkalosis has symptoms:\n-Nausea\n-Vomiting\n-Headache\n-Confusion\n-Muscle weakness\n-Tingling or numbness in the hands and feet\n-Seizures\n-Coma",
+        " Hypernatremia has symptoms:\n-Thirst\n-Dry mouth\n-Lethargy\n-Confusion\n-Seizures\n-Coma"
+    ]
+]
